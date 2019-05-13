@@ -4,25 +4,33 @@ I am a PhD student in Statistics at [LPSM](http://www.lpsm.paris/), Sorbonne Uni
 
 ## Research 
 
-I am interested in applications of rough paths theory to statistical learning.
+I am interested in applications of rough paths theory to statistical learning.  
+
+[Master thesis (2018)](https://github.com/afermanian/afermanian.github.io/docs/thesis_fermanian.pdf)
 
 ## Teaching
 
+I have been a teaching assistant for the following courses.
+
 ### 2018-2019
 
-* TP Statistiques de Bases en M1
-* TD Statistique Inférentielle en L3
+* Mathematical Statistics (M1)
+* Inferential Statistics ISUP (L3)
 
 ## Talks
+
+* May 2019, LPSM PhD students seminar (Paris)
+* April 2019, Rencontre des Jeunes Statisticiens (Porquerolles)
 
 
 ## Contact
 
 adeline [dot] fermanian [at] upmc [dot] fr
 
+Office 15-16.204
+
 Sorbonne Université - LPSM  
 Campus Pierre et Marie Curie  
-Tour 15-16, 2ème étage, Bureau 204  
 4 place Jussieu  
 75005 Paris  
 
