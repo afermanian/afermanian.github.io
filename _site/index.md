@@ -39,5 +39,7 @@ Campus Pierre et Marie Curie
 
 Office 15-16.204
 
+[GitHub profile](https://github.com/afermanian)
+
 
 
