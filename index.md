@@ -6,7 +6,7 @@ I am a PhD student in Statistics at [LPSM](http://www.lpsm.paris/), Sorbonne Uni
 
 I am interested in applications of rough paths theory to statistical learning.  
 
-[Master thesis (2018)](https://github.com/afermanian/afermanian.github.io/docs/thesis_fermanian.pdf)
+[Master thesis (2018)]({{ site.baseurl }}/docs/thesis_fermanian.pdf)
 
 ## Teaching
 
