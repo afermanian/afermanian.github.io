@@ -30,7 +30,7 @@ I have been a teaching assistant for the following courses:
 
 ## Contact
 
-adeline [dot] fermanian [at] upmc [dot] fr
+<adeline.fermanian@upmc.fr>
 
 Sorbonne Université - LPSM  
 Campus Pierre et Marie Curie  
