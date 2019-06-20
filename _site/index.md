@@ -24,6 +24,7 @@ I have been a teaching assistant for the following courses:
 
 ## Talks
 
+* June 2019, [51es Journées de Statistique (Nancy) ]({{ site.baseurl }}/docs/slides_jds.pdf)
 * May 2019, PhD students seminar at LPSM (Paris)
 * April 2019, Rencontre des Jeunes Statisticiens (Porquerolles)
 
