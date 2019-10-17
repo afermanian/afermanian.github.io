@@ -16,16 +16,16 @@ I am interested in applications of rough paths theory to statistical learning. Y
 
 I have been a teaching assistant for the following courses:
 
+#### 2019-2020
+* Linear models (M1)
+* Mathematical Statistics (M1)
+* Inferential Statistics ISUP (L3)
+
 #### 2018-2019
 
 * Mathematical Statistics (M1)
 * Inferential Statistics ISUP (L3)
 * Return to graduate studies diploma for exiles
-
-### 2019-2020
-* Linear models (M1)
-* Mathematical Statistics (M1)
-* Inferential Statistics ISUP (L3)
 
 # Communications
 
