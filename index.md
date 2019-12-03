@@ -3,13 +3,13 @@ I am since November 2018 a PhD student in Statistics at [LPSM](http://www.lpsm.p
 
 # Research 
 
-I am interested in applications of rough paths theory to statistical learning. 
+I am interested in applications of rough path theory to statistical learning. 
 
-## Preprints
+### Preprints
 
 * Fermanian, A. (2019). [Embedding and learning with signatures](https://arxiv.org/pdf/1911.13211.pdf). Code available [here](https://github.com/afermanian/embedding_with_signatures).
 
-## Other
+### Other
 
 * [Master thesis (2018)]({{ site.baseurl }}/docs/thesis_fermanian.pdf)
 * [Curriculum Vitae]({{ site.baseurl }}/docs/CV-Fermanian-English.pdf)
@@ -18,12 +18,12 @@ I am interested in applications of rough paths theory to statistical learning.
 
 I have been a teaching assistant for the following courses:
 
-#### 2019-2020
+### 2019-2020
 * Linear models ISUP (M1, exercice classes).
 * Mathematical Statistics (M1, computer labs).
 * Inferential Statistics ISUP (L3, exercice classes).
 
-#### 2018-2019
+### 2018-2019
 
 * Mathematical Statistics (M1, computer labs).
 * Inferential Statistics ISUP (L3, exercice classes).
@@ -31,7 +31,7 @@ I have been a teaching assistant for the following courses:
 
 # Communications
 
-## Talks
+### Talks
 
 * *December 2019*, [12th Oxford-Berlin Young Researchers Meeting on Applied Stochastic Analysis](https://www.maths.ox.ac.uk/events/conferences/12th-oxford-berlin-conference) (Oxford)
 * *October 2019*, [Conférence TRAG 2019 (Nancy)](https://trag2019.event.univ-lorraine.fr/), [slides]({{ site.baseurl }}/docs/slides_trag.pdf)
@@ -39,7 +39,7 @@ I have been a teaching assistant for the following courses:
 * *May 2019*, PhD students seminar at LPSM (Paris)
 * *April 2019*, Rencontre des Jeunes Statisticiens (Porquerolles)
 
-## Other
+### Other
 
 * *November 2019*, [Colloquium d’informatique de Sorbonne Université:](https://www.lip6.fr/colloquium/?guest=Chavier) participation in the masterclass (Paris)
 * *June 2019*, [Data Science Summer School (Paris)](https://www.ds3-datascience-polytechnique.fr/): [poster]({{ site.baseurl }}/docs/DS3_fermanian.pdf)
