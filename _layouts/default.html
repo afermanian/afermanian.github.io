@@ -15,6 +15,7 @@
     <div class="wrapper">
       <header>
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        <h2> {{ site.subtitle}}</h1>
         
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" height="128" width="128" />
@@ -29,6 +30,19 @@
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
+
+        <h2 id="contact">Contact</h2>
+
+        <p><a href="mailto:adeline.fermanian@upmc.fr">adeline.fermanian@upmc.fr</a></p>
+
+        <p>Sorbonne Université - LPSM<br />
+        Campus Pierre et Marie Curie<br />
+        4 place Jussieu<br />
+        75005 Paris</p>
+
+        <p>Office 15-16.204</p>
+
+        <p><a href="https://github.com/afermanian">GitHub profile</a></p>
       </header>
       <section>
 
@@ -36,9 +50,6 @@
 
       </section>
       <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>

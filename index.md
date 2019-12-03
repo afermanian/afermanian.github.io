@@ -49,18 +49,6 @@ I have been a teaching assistant for the following courses:
 * *September 2019 - Present*, Co-organizer of the [PhD students seminar at LPSM](http://www.lpsm.paris/agenda/seminaires-gdt/gtt/).
 * *April 2019 - Present*, Co-organizer of [InfoMaths](http://infomath.pages.math.cnrs.fr/), a seminar about informatic tools for mathematicians.
 
-## Contact
-
-<adeline.fermanian@upmc.fr>
-
-Sorbonne Université - LPSM  
-Campus Pierre et Marie Curie  
-4 place Jussieu  
-75005 Paris  
-
-Office 15-16.204
-
-[GitHub profile](https://github.com/afermanian)
 
 
 
