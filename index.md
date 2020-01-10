@@ -33,16 +33,17 @@ I have been a teaching assistant for the following courses:
 
 ### Talks
 
-* *December 2019*, [12th Oxford-Berlin Young Researchers Meeting on Applied Stochastic Analysis](https://www.maths.ox.ac.uk/events/conferences/12th-oxford-berlin-conference) (Oxford)
-* *October 2019*, [Conférence TRAG 2019 (Nancy)](https://trag2019.event.univ-lorraine.fr/), [slides]({{ site.baseurl }}/docs/slides_trag.pdf)
-* *June 2019*, [51es Journées de Statistique (Nancy)](http://jds2019.sfds.asso.fr/), [slides]({{ site.baseurl }}/docs/slides_jds.pdf)
-* *May 2019*, PhD students seminar at LPSM (Paris)
-* *April 2019*, Rencontre des Jeunes Statisticiens (Porquerolles)
+* *January 2020*, Post Graduate seminar of the [Chair for Mathematics of Information Processing](https://www.mathc.rwth-aachen.de/en/home/home/), RWTH Aachen University (Aachen, Germany)
+* *December 2019*, [12th Oxford-Berlin Young Researchers Meeting on Applied Stochastic Analysis](https://www.maths.ox.ac.uk/events/conferences/12th-oxford-berlin-conference) (Oxford, United Kingdom)
+* *October 2019*, [Conference of the GDR TRAG 2019 (Nancy,France)](https://trag2019.event.univ-lorraine.fr/), [slides]({{ site.baseurl }}/docs/slides_trag.pdf)
+* *June 2019*, [51es Journées de Statistique (Nancy, France)](http://jds2019.sfds.asso.fr/), [slides]({{ site.baseurl }}/docs/slides_jds.pdf)
+* *May 2019*, PhD students seminar at LPSM (Paris, France)
+* *April 2019*, Rencontre des Jeunes Statisticiens (Porquerolles, France)
 
 ### Other
 
-* *November 2019*, [Colloquium d’informatique de Sorbonne Université:](https://www.lip6.fr/colloquium/?guest=Chavier) participation in the masterclass (Paris)
-* *June 2019*, [Data Science Summer School (Paris)](https://www.ds3-datascience-polytechnique.fr/): [poster]({{ site.baseurl }}/docs/DS3_fermanian.pdf)
+* *November 2019*, [Colloquium d’informatique de Sorbonne Université:](https://www.lip6.fr/colloquium/?guest=Chavier) participation in the masterclass (Paris, France)
+* *June 2019*, [Data Science Summer School (Paris, France)](https://www.ds3-datascience-polytechnique.fr/): [poster]({{ site.baseurl }}/docs/DS3_fermanian.pdf)
 
 # Activities
 
