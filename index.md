@@ -33,6 +33,7 @@ I have been a teaching assistant for the following courses:
 
 ### Talks
 
+* *February 2020*, Seminar of the [Institut Denis Poisson](https://www.idpoisson.fr), Université d'Orléans (Orléans, France)
 * *January 2020*, Post Graduate seminar of the [Chair for Mathematics of Information Processing](https://www.mathc.rwth-aachen.de/en/home/home/), RWTH Aachen University (Aachen, Germany)
 * *December 2019*, [12th Oxford-Berlin Young Researchers Meeting on Applied Stochastic Analysis](https://www.maths.ox.ac.uk/events/conferences/12th-oxford-berlin-conference) (Oxford, United Kingdom)
 * *October 2019*, [Conference of the GDR TRAG 2019 (Nancy,France)](https://trag2019.event.univ-lorraine.fr/), [slides]({{ site.baseurl }}/docs/slides_trag.pdf)
