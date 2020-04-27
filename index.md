@@ -16,12 +16,13 @@ I am interested in applications of rough path theory to statistical learning.
 
 # Teaching
 
-I have been a teaching assistant for the following courses:
+I have been a teaching assistant for the following courses.
 
 ### 2019-2020
 * Linear models ISUP (M1, exercice classes).
 * Mathematical Statistics (M1, computer labs).
 * Inferential Statistics ISUP (L3, exercice classes).
+* Return to graduate studies diploma for exiles.
 
 ### 2018-2019
 
@@ -33,17 +34,18 @@ I have been a teaching assistant for the following courses:
 
 ### Talks
 
+* *April 2020*, [DataSig Seminar Series](https://datasig.ac.uk/event/adeline-fermanian-discussing-xyz), Alan Turing Institute, (London, United Kingdom)
 * *February 2020*, Seminar of the [Institut Denis Poisson](https://www.idpoisson.fr), Université d'Orléans (Orléans, France)
 * *January 2020*, Post Graduate seminar of the [Chair for Mathematics of Information Processing](https://www.mathc.rwth-aachen.de/en/home/home/), RWTH Aachen University (Aachen, Germany)
 * *December 2019*, [12th Oxford-Berlin Young Researchers Meeting on Applied Stochastic Analysis](https://www.maths.ox.ac.uk/events/conferences/12th-oxford-berlin-conference) (Oxford, United Kingdom)
-* *October 2019*, [Conference of the GDR TRAG 2019 (Nancy,France)](https://trag2019.event.univ-lorraine.fr/), [slides]({{ site.baseurl }}/docs/slides_trag.pdf)
+* *October 2019*, [Conference of the GDR TRAG 2019](https://trag2019.event.univ-lorraine.fr/), (Nancy, France), [slides]({{ site.baseurl }}/docs/slides_trag.pdf)
 * *June 2019*, [51es Journées de Statistique (Nancy, France)](http://jds2019.sfds.asso.fr/), [slides]({{ site.baseurl }}/docs/slides_jds.pdf)
 * *May 2019*, PhD students seminar at LPSM (Paris, France)
 * *April 2019*, Rencontre des Jeunes Statisticiens (Porquerolles, France)
 
 ### Other
 
-* *November 2019*, [Colloquium d’informatique de Sorbonne Université:](https://www.lip6.fr/colloquium/?guest=Chavier) participation in the masterclass (Paris, France)
+* *November 2019*, [Colloquium d’informatique de Sorbonne Université:](https://www.lip6.fr/colloquium/?guest=Chavier) participation in the masterclass of Caroline Chavier (Paris, France)
 * *June 2019*, [Data Science Summer School (Paris, France)](https://www.ds3-datascience-polytechnique.fr/): [poster]({{ site.baseurl }}/docs/DS3_fermanian.pdf)
 
 # Activities
