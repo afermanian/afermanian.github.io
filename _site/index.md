@@ -3,11 +3,12 @@ I am since November 2018 a PhD student in Statistics at [LPSM](http://www.lpsm.p
 
 # Research 
 
-I am interested in applications of rough path theory to statistical learning. 
+I am interested in applications of rough path theory to statistics, and more precisely in the "signature method" for multivariate sequential data. Check out the [DataSig website](https://datasig.ac.uk/test) for more information on applications of signatures in machine learning.
 
 ### Preprints
 
-* Fermanian, A. (2019). [Embedding and learning with signatures](https://arxiv.org/pdf/1911.13211.pdf). Code available [here](https://github.com/afermanian/embedding_with_signatures).
+* Morrill, J., Fermanian, A., Kidger, P., Lyons, T. (2020). [A Generalised Signature Method for Time Series](https://arxiv.org/abs/2006.00873) ([code](https://github.com/jambo6/generalised-signature-method)).
+* Fermanian, A. (2019). [Embedding and learning with signatures](https://arxiv.org/abs/1911.13211) ([code](https://github.com/afermanian/embedding_with_signatures)).
 
 ### Other
 
@@ -34,7 +35,7 @@ I have been a teaching assistant for the following courses.
 
 ### Talks
 
-* *April 2020*, [DataSig Seminar Series](https://datasig.ac.uk/event/adeline-fermanian-discussing-xyz), Alan Turing Institute, (London, United Kingdom)
+* *April 2020*, [DataSig Seminar Series](https://datasig.ac.uk/event/adeline-fermanian-discussing-xyz), Alan Turing Institute, (virtual)
 * *February 2020*, Seminar of the [Institut Denis Poisson](https://www.idpoisson.fr), Université d'Orléans (Orléans, France)
 * *January 2020*, Post Graduate seminar of the [Chair for Mathematics of Information Processing](https://www.mathc.rwth-aachen.de/en/home/home/), RWTH Aachen University (Aachen, Germany)
 * *December 2019*, [12th Oxford-Berlin Young Researchers Meeting on Applied Stochastic Analysis](https://www.maths.ox.ac.uk/events/conferences/12th-oxford-berlin-conference) (Oxford, United Kingdom)
