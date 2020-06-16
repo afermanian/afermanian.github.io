@@ -7,6 +7,7 @@ I am interested in applications of rough path theory to statistics, and more pre
 
 ### Preprints
 
+* Fermanian, A. (2020). [Linear functional regression with truncated signatures](https://arxiv.org/abs/2006.08442) ([code](https://github.com/afermanian/signature-regression)).
 * Morrill, J., Fermanian, A., Kidger, P., Lyons, T. (2020). [A Generalised Signature Method for Time Series](https://arxiv.org/abs/2006.00873) ([code](https://github.com/jambo6/generalised-signature-method)).
 * Fermanian, A. (2019). [Embedding and learning with signatures](https://arxiv.org/abs/1911.13211) ([code](https://github.com/afermanian/embedding_with_signatures)).
 
@@ -35,6 +36,8 @@ I have been a teaching assistant for the following courses.
 
 ### Talks
 
+* *August 2020*, [Geometry of curves in time series and shape analysis](https://www.mis.mpg.de/calendar/conferences/2020/geometry-of-curves2020.html), Max Planck Institute for Mathematics in the Sciences (virtual)
+* *June 2020*, Online seminar of the LPSM, Sorbonne Université (virtual)
 * *April 2020*, [DataSig Seminar Series](https://datasig.ac.uk/event/adeline-fermanian-discussing-xyz), Alan Turing Institute, (virtual)
 * *February 2020*, Seminar of the [Institut Denis Poisson](https://www.idpoisson.fr), Université d'Orléans (Orléans, France)
 * *January 2020*, Post Graduate seminar of the [Chair for Mathematics of Information Processing](https://www.mathc.rwth-aachen.de/en/home/home/), RWTH Aachen University (Aachen, Germany)
