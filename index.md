@@ -3,7 +3,7 @@ I am since November 2018 a PhD student in Statistics at [LPSM](http://www.lpsm.p
 
 # Research 
 
-I am interested in applications of rough path theory to statistics, and more precisely in the "signature method" for multivariate sequential data. Check out the [DataSig website](https://datasig.ac.uk/test) for more information on applications of signatures in machine learning.
+I am interested in applications of rough path theory to statistics, and more precisely in the "signature method" for multivariate sequential data. Check out the [DataSig website](https://datasig.ac.uk) for more information on applications of signatures in machine learning.
 
 ### Preprints
 
@@ -36,6 +36,8 @@ I have been a teaching assistant for the following courses.
 
 ### Talks
 
+* *October 2020*, [Algebraic and combinatorial perspectives in the mathematical sciences (ACPMS)](https://www.math.ntnu.no/acpms/) (virtual)
+* *September 2020*, [Second Symposium on Machine Learning and Dynamical Systems](http://www.fields.utoronto.ca/activities/20-21/dynamical), The Fields Institute for Research in Mathematical Sciences (virtual)
 * *August 2020*, [Geometry of curves in time series and shape analysis](https://www.mis.mpg.de/calendar/conferences/2020/geometry-of-curves2020.html), Max Planck Institute for Mathematics in the Sciences (virtual)
 * *June 2020*, Online seminar of the LPSM, Sorbonne Université (virtual)
 * *April 2020*, [DataSig Seminar Series](https://datasig.ac.uk/event/adeline-fermanian-discussing-xyz), Alan Turing Institute, (virtual)
