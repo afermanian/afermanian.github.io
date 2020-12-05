@@ -40,6 +40,7 @@ I have been a teaching assistant for the following courses.
 
 ### Talks
 
+* *December 2020*, Workshop [New Directions in Rough Path Theory](https://www.mfo.de/occasion/2050a/www_view), Mathematical Research Institute of Oberwolfach, Oberwolfach, Germany (virtual)
 * *October 2020*, [Algebraic and combinatorial perspectives in the mathematical sciences (ACPMS)](https://www.math.ntnu.no/acpms/) (virtual), [video and slides](https://www.math.ntnu.no/acpms/view_talk.html?id=63)
 * *September 2020*, [Second Symposium on Machine Learning and Dynamical Systems](http://www.fields.utoronto.ca/activities/20-21/dynamical), The Fields Institute for Research in Mathematical Sciences (virtual)
 * *August 2020*, [Geometry of curves in time series and shape analysis](https://www.mis.mpg.de/calendar/conferences/2020/geometry-of-curves2020.html), Max Planck Institute for Mathematics in the Sciences (virtual)
