@@ -1,6 +1,8 @@
 
 I am since November 2018 a PhD student in Statistics at [LPSM](http://www.lpsm.paris/), Sorbonne Université, under the supervision of [Gérard Biau](http://www.lsta.upmc.fr/biau.html) and [Benoît Cadre](https://w3.ens-rennes.fr/math/people/benoit.cadre/).
 
+[Curriculum Vitae]({{ site.baseurl }}/docs/CV-Fermanian-English.pdf)
+
 # Research 
 
 I am interested in applications of rough path theory to statistics, and more precisely in the "signature method" for multivariate sequential data. Check out the [DataSig website](https://datasig.ac.uk) for more information on applications of signatures in machine learning.
@@ -9,12 +11,15 @@ I am interested in applications of rough path theory to statistics, and more pre
 
 * Fermanian, A. (2020). [Linear functional regression with truncated signatures](https://arxiv.org/abs/2006.08442) ([code](https://github.com/afermanian/signature-regression)).
 * Morrill, J., Fermanian, A., Kidger, P., Lyons, T. (2020). [A Generalised Signature Method for Time Series](https://arxiv.org/abs/2006.00873) ([code](https://github.com/jambo6/generalised-signature-method)).
-* Fermanian, A. (2019). [Embedding and learning with signatures](https://arxiv.org/abs/1911.13211) ([code](https://github.com/afermanian/embedding_with_signatures)).
 
-### Other
+### Journal articles 
 
+* Fermanian, A. (2021). [Embedding and learning with signatures](https://arxiv.org/abs/1911.13211), *Computational Statistics & Data Analysis*, **Vol. 157**, 107148. ([code](https://github.com/afermanian/embedding_with_signatures))
+
+### Conference proceedings and miscellaneous
+
+* Biau, G. and Fermanian, A. (2020). [Learning with signatures]({{ site.baseurl }}/docs/Biau_and_Fermanian_2019.pdf), in *Functional and High-Dimensional Statistics and Related Fields*, pp. 19-26, Springer, Cham.
 * [Master thesis (2018)]({{ site.baseurl }}/docs/thesis_fermanian.pdf)
-* [Curriculum Vitae]({{ site.baseurl }}/docs/CV-Fermanian-English.pdf)
 
 # Teaching
 
@@ -62,10 +67,10 @@ I have been a teaching assistant for the following courses.
 # Activities
 
 * *September 2020 - Present* Co-organizer of a "Statistics and machine learning reading group" ([contact me](mailto:adeline.fermanian@sorbonne-universite.fr) to join us!)
+* *April 2019 - Present*, Co-organizer of [InfoMaths](http://infomath.pages.math.cnrs.fr/), a seminar about informatic tools for mathematicians.
 * *June 2020 - July 2020* Co-supervision of Linus Bleistein's master thesis on "SiGANtures: Generating Times Series Using
 Wasserstein-Generative Adversarial Nets and the Signature Transform" with [Gérard Biau](http://www.lsta.upmc.fr/biau.html) and [Claire Boyer](https://www.lpsm.paris/pageperso/boyer/index.html)
 * *September 2019 - September 2020*, Co-organizer of the [PhD students seminar at LPSM](http://www.lpsm.paris/agenda/seminaires-gdt/gtt/).
-* *April 2019 - Present*, Co-organizer of [InfoMaths](http://infomath.pages.math.cnrs.fr/), a seminar about informatic tools for mathematicians.
 
 
 
