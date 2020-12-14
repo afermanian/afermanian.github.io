@@ -45,6 +45,7 @@ I have been a teaching assistant for the following courses.
 
 ### Talks
 
+* **January 2021**, [Séminaire de Probabilités et Statistique](https://math.unice.fr/seminairesequipeps/séminaire-de-léquipe-de-probabilités-et-statistique.html), *Laboratoire J.A. Dieudonné, Université Côte d'Azur, Nice, France*
 * **December 2020**, Workshop [New Directions in Rough Path Theory](https://www.mfo.de/occasion/2050a/www_view), *Mathematical Research Institute of Oberwolfach, Oberwolfach, Germany* (virtual)
 * **October 2020**, [Algebraic and combinatorial perspectives in the mathematical sciences (ACPMS)](https://www.math.ntnu.no/acpms/) (virtual, [video and slides](https://www.math.ntnu.no/acpms/view_talk.html?id=63))
 * **September 2020**, [Second Symposium on Machine Learning and Dynamical Systems](http://www.fields.utoronto.ca/activities/20-21/dynamical), *The Fields Institute for Research in Mathematical Sciences, Toronto, Canada* (virtual)
@@ -69,7 +70,7 @@ I have been a teaching assistant for the following courses.
 * **Novembre 2020 - Present** Co-organizer of a "Statistics and machine learning reading group" ([contact me](mailto:adeline.fermanian@sorbonne-universite.fr) to join us!)
 * **April 2019 - Present**, Co-organizer of [InfoMaths](http://infomath.pages.math.cnrs.fr/), a seminar about informatic tools for mathematicians.
 * **June 2020 - July 2020** Co-supervision of Linus Bleistein's master thesis on "SiGANtures: Generating Times Series Using
-Wasserstein-Generative Adversarial Nets and the Signature Transform" with [Gérard Biau](http://www.lsta.upmc.fr/biau.html) and [Claire Boyer](https://www.lpsm.paris/pageperso/boyer/index.html)
+Wasserstein-Generative Adversarial Nets and the Signature Transform" with [Gérard Biau](http://www.lsta.upmc.fr/biau.html) and [Claire Boyer](https://www.lpsm.paris/pageperso/boyer/index.html).
 * **September 2019 - September 2020**, Co-organizer of the [PhD students seminar at LPSM](http://www.lpsm.paris/agenda/seminaires-gdt/gtt/).
 
 
