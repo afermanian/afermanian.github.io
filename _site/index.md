@@ -1,7 +1,7 @@
 
 I am since November 2018 a PhD student in Statistics at [LPSM](http://www.lpsm.paris/), Sorbonne Université, under the supervision of [Gérard Biau](http://www.lsta.upmc.fr/biau.html) and [Benoît Cadre](https://w3.ens-rennes.fr/math/people/benoit.cadre/).
 
-[Curriculum Vitae]({{ site.baseurl }}/docs/CV-Fermanian-English.pdf)
+[Curriculum Vitae]({{ site.baseurl }}/docs/Detailed_CV_Fermanian.pdf)
 
 # Research 
 
@@ -43,7 +43,14 @@ I have been a teaching assistant for the following courses.
 
 # Communications
 
-### Talks
+### Upcoming
+* **February 12th 2021**, [Séminaire du SAMM (Statistique, Analyse et Modélisation Multidisciplinaire)](http://samm.univ-paris1.fr/-Seminaire-du-SAMM-), *Université Paris 1 Panthéon-Sorbonne, Paris, France* (virtual)
+* **March 8th-12th 2021**, [Pathwise Stochastic Analysis and Applications](https://conferences.cirm-math.fr/2322.html), *CIRM, Marseille, France*
+* **May 19th 2021**, [CRiSM (Center for Research in Statistical Methodology) seminar series](https://warwick.ac.uk/fac/sci/statistics/crism/seminars/), *Department of Statistics, University of Warwick, Warwick, United Kingdom*
+* **July 6th-9th 2021**, [Applications of Rough Paths: Computational Signatures and Data Science](https://icerm.brown.edu/topical_workshops/tw-21-rp/), *ICERM (The Institute for Computational and Experimental Research in Mathematics), Providence, United States*
+
+
+### Past
 
 * **January 2021**, [Rough Path Interest Group](https://datasig.ac.uk/event/adeline-fermanian-13-jan-2021), *Alan Turing Institute, London, United Kingdom* (virtual)
 * **January 2021**, [Séminaire de Probabilités et Statistique](https://math.unice.fr/seminairesequipeps/séminaire-de-léquipe-de-probabilités-et-statistique.html), *Laboratoire J.A. Dieudonné, Université Côte d'Azur, Nice, France*
@@ -56,15 +63,12 @@ I have been a teaching assistant for the following courses.
 * **February 2020**, Seminar of the [Institut Denis Poisson](https://www.idpoisson.fr), *Université d'Orléans, Orléans, France*
 * **January 2020**, Post Graduate seminar of the [Chair for Mathematics of Information Processing](https://www.mathc.rwth-aachen.de/en/home/home/), *RWTH Aachen University, Aachen, Germany*
 * **December 2019**, [12th Oxford-Berlin Young Researchers Meeting on Applied Stochastic Analysis](https://www.maths.ox.ac.uk/events/conferences/12th-oxford-berlin-conference), *Oxford, United Kingdom*
+* **November 2019**, [Colloquium d’informatique de Sorbonne Université:](https://www.lip6.fr/colloquium/?guest=Chavier) participation in the masterclass of Caroline Chavier, *Paris, France*
 * **October 2019**, [Conference of the GDR TRAG 2019](https://trag2019.event.univ-lorraine.fr/), *Nancy, France* ([slides]({{ site.baseurl }}/docs/slides_trag.pdf))
+* **June 2019**, [Data Science Summer School](https://www.ds3-datascience-polytechnique.fr/), *École Polytechnique, Paris, France*, [poster]({{ site.baseurl }}/docs/DS3_fermanian.pdf)
 * **June 2019**, [51es Journées de Statistique](http://jds2019.sfds.asso.fr/), Nancy, France, ([slides]({{ site.baseurl }}/docs/slides_jds.pdf))
 * **May 2019**, PhD students seminar at LPSM, *Sorbonne Université, Paris, France*
 * **April 2019**, Rencontre des Jeunes Statisticiens, *Porquerolles, France*
-
-### Other
-
-* **November 2019**, [Colloquium d’informatique de Sorbonne Université:](https://www.lip6.fr/colloquium/?guest=Chavier) participation in the masterclass of Caroline Chavier, *Paris, France*
-* **June 2019**, [Data Science Summer School](https://www.ds3-datascience-polytechnique.fr/), *École Polytechnique, Paris, France*, [poster]({{ site.baseurl }}/docs/DS3_fermanian.pdf)
 
 # Activities
 
