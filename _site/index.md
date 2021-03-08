@@ -44,7 +44,7 @@ I have been a teaching assistant for the following courses.
 # Communications
 
 ### Upcoming
-* **February 12th 2021**, [Séminaire du SAMM (Statistique, Analyse et Modélisation Multidisciplinaire)](http://samm.univ-paris1.fr/-Seminaire-du-SAMM-), *Université Paris 1 Panthéon-Sorbonne, Paris, France* (virtual)
+
 * **March 8th-12th 2021**, [Pathwise Stochastic Analysis and Applications](https://conferences.cirm-math.fr/2322.html), *CIRM, Marseille, France*
 * **May 19th 2021**, [CRiSM (Center for Research in Statistical Methodology) seminar series](https://warwick.ac.uk/fac/sci/statistics/crism/seminars/), *Department of Statistics, University of Warwick, Warwick, United Kingdom*
 * **July 6th-9th 2021**, [Applications of Rough Paths: Computational Signatures and Data Science](https://icerm.brown.edu/topical_workshops/tw-21-rp/), *ICERM (The Institute for Computational and Experimental Research in Mathematics), Providence, United States*
@@ -52,6 +52,7 @@ I have been a teaching assistant for the following courses.
 
 ### Past
 
+* **February 2021**, [Séminaire du SAMM (Statistique, Analyse et Modélisation Multidisciplinaire)](http://samm.univ-paris1.fr/-Seminaire-du-SAMM-), *Université Paris 1 Panthéon-Sorbonne, Paris, France* (virtual)
 * **January 2021**, [Rough Path Interest Group](https://datasig.ac.uk/event/adeline-fermanian-13-jan-2021), *Alan Turing Institute, London, United Kingdom* (virtual)
 * **January 2021**, [Séminaire de Probabilités et Statistique](https://math.unice.fr/seminairesequipeps/séminaire-de-léquipe-de-probabilités-et-statistique.html), *Laboratoire J.A. Dieudonné, Université Côte d'Azur, Nice, France*
 * **December 2020**, Workshop [New Directions in Rough Path Theory](https://www.mfo.de/occasion/2050a/www_view), *Mathematical Research Institute of Oberwolfach, Oberwolfach, Germany* (virtual)
