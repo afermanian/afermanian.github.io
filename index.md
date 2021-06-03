@@ -5,10 +5,11 @@ I am since November 2018 a PhD student in Statistics at [LPSM](http://www.lpsm.p
 
 # Research 
 
-I am interested in applications of rough path theory to statistics, and more precisely in the "signature method" for multivariate sequential data. Check out the [DataSig website](https://datasig.ac.uk) for more information on applications of signatures in machine learning.
+I am interested in applications of rough path theory to statistics, and more precisely in the *signature method* for multivariate sequential data. Check out the [DataSig website](https://datasig.ac.uk) for more information on applications of signatures in machine learning.
 
 ### Preprints
 
+* Fermanian, A., Marion. P., Vert, J.P., Biau, G. (2021). [Framing RNN as a kernel method: A neural ODE approach](https://arxiv.org/pdf/2106.01202.pdf) ([code](https://github.com/afermanian/rnn-kernel)).
 * Fermanian, A. (2020). [Linear functional regression with truncated signatures](https://arxiv.org/pdf/2006.08442.pdf) ([code](https://github.com/afermanian/signature-regression)).
 * Morrill, J., Fermanian, A., Kidger, P., Lyons, T. (2020). [A Generalised Signature Method for Time Series](https://arxiv.org/pdf/2006.00873.pdf) ([code](https://github.com/jambo6/generalised-signature-method)).
 
@@ -45,22 +46,23 @@ I have been a teaching assistant for the following courses.
 
 ### Upcoming
 
-* **March 8th-12th 2021**, [Pathwise Stochastic Analysis and Applications](https://conferences.cirm-math.fr/2322.html), *CIRM, Marseille, France*
-* **May 19th 2021**, [CRiSM (Center for Research in Statistical Methodology) seminar series](https://warwick.ac.uk/fac/sci/statistics/crism/seminars/), *Department of Statistics, University of Warwick, Warwick, United Kingdom*
 * **July 6th-9th 2021**, [Applications of Rough Paths: Computational Signatures and Data Science](https://icerm.brown.edu/topical_workshops/tw-21-rp/), *ICERM (The Institute for Computational and Experimental Research in Mathematics), Providence, United States*
 
 
 ### Past
 
-* **February 2021**, [Séminaire du SAMM (Statistique, Analyse et Modélisation Multidisciplinaire)](http://samm.univ-paris1.fr/-Seminaire-du-SAMM-), *Université Paris 1 Panthéon-Sorbonne, Paris, France* (virtual)
-* **January 2021**, [Rough Path Interest Group](https://datasig.ac.uk/event/adeline-fermanian-13-jan-2021), *Alan Turing Institute, London, United Kingdom* (virtual)
+* **May 2021**, [Séminaire MODAL'X](https://modalx.parisnanterre.fr/seminaires/), *Université Paris Nanterre, Paris, France*
+* **May 2021**, [CRiSM (Center for Research in Statistical Methodology) seminar series](https://warwick.ac.uk/fac/sci/statistics/crism/seminars/), *Department of Statistics, University of Warwick, Warwick, United Kingdom*
+* **March 2021**, [Pathwise Stochastic Analysis and Applications](https://conferences.cirm-math.fr/2322.html), *CIRM, Marseille, France*
+* **February 2021**, [Séminaire du SAMM (Statistique, Analyse et Modélisation Multidisciplinaire)](http://samm.univ-paris1.fr/-Seminaire-du-SAMM-), *Université Paris 1 Panthéon-Sorbonne, Paris, France* 
+* **January 2021**, [Rough Path Interest Group](https://datasig.ac.uk/event/adeline-fermanian-13-jan-2021), *Alan Turing Institute, London, United Kingdom* 
 * **January 2021**, [Séminaire de Probabilités et Statistique](https://math.unice.fr/seminairesequipeps/séminaire-de-léquipe-de-probabilités-et-statistique.html), *Laboratoire J.A. Dieudonné, Université Côte d'Azur, Nice, France*
-* **December 2020**, Workshop [New Directions in Rough Path Theory](https://www.mfo.de/occasion/2050a/www_view), *Mathematical Research Institute of Oberwolfach, Oberwolfach, Germany* (virtual)
+* **December 2020**, Workshop [New Directions in Rough Path Theory](https://www.mfo.de/occasion/2050a/www_view), *Mathematical Research Institute of Oberwolfach, Oberwolfach, Germany* 
 * **October 2020**, [Algebraic and combinatorial perspectives in the mathematical sciences (ACPMS)](https://www.math.ntnu.no/acpms/) (virtual, [video and slides](https://www.math.ntnu.no/acpms/view_talk.html?id=63))
-* **September 2020**, [Second Symposium on Machine Learning and Dynamical Systems](http://www.fields.utoronto.ca/activities/20-21/dynamical), *The Fields Institute for Research in Mathematical Sciences, Toronto, Canada* (virtual)
-* **August 2020**, [Geometry of curves in time series and shape analysis](https://www.mis.mpg.de/calendar/conferences/2020/geometry-of-curves2020.html), *Max Planck Institute for Mathematics in the Sciences, Leipzig, Germany* (virtual)
-* **June 2020**, Online seminar of the LPSM, *Sorbonne Université, Paris, France* (virtual)
-* **April 2020**, [DataSig Seminar Series](https://datasig.ac.uk/event/adeline-fermanian-discussing-xyz), *Alan Turing Institute, London, United Kingdom* (virtual)
+* **September 2020**, [Second Symposium on Machine Learning and Dynamical Systems](http://www.fields.utoronto.ca/activities/20-21/dynamical), *The Fields Institute for Research in Mathematical Sciences, Toronto, Canada* 
+* **August 2020**, [Geometry of curves in time series and shape analysis](https://www.mis.mpg.de/calendar/conferences/2020/geometry-of-curves2020.html), *Max Planck Institute for Mathematics in the Sciences, Leipzig, Germany* 
+* **June 2020**, Online seminar of the LPSM, *Sorbonne Université, Paris, France* 
+* **April 2020**, [DataSig Seminar Series](https://datasig.ac.uk/event/adeline-fermanian-discussing-xyz), *Alan Turing Institute, London, United Kingdom* 
 * **February 2020**, Seminar of the [Institut Denis Poisson](https://www.idpoisson.fr), *Université d'Orléans, Orléans, France*
 * **January 2020**, Post Graduate seminar of the [Chair for Mathematics of Information Processing](https://www.mathc.rwth-aachen.de/en/home/home/), *RWTH Aachen University, Aachen, Germany*
 * **December 2019**, [12th Oxford-Berlin Young Researchers Meeting on Applied Stochastic Analysis](https://www.maths.ox.ac.uk/events/conferences/12th-oxford-berlin-conference), *Oxford, United Kingdom*
@@ -73,8 +75,9 @@ I have been a teaching assistant for the following courses.
 
 # Activities
 
+* **May 2021 - July 2021** Co-supervision of Nathan Doumèche's master thesis with [Pierre Marion](https://pierremarion23.github.io) and [Gérard Biau](http://www.lsta.upmc.fr/biau.html)
 * **Novembre 2020 - Present** Co-organizer of a "Statistics and machine learning reading group" ([contact me](mailto:adeline.fermanian@sorbonne-universite.fr) to join us!)
-* **April 2019 - Present**, Co-organizer of [InfoMaths](http://infomath.pages.math.cnrs.fr/), a seminar about informatic tools for mathematicians.
+* **April 2019 - April 2021**, Co-organizer of [InfoMaths](http://infomath.pages.math.cnrs.fr/), a seminar about informatic tools for mathematicians.
 * **June 2020 - July 2020** Co-supervision of Linus Bleistein's master thesis on "SiGANtures: Generating Times Series Using
 Wasserstein-Generative Adversarial Nets and the Signature Transform" with [Gérard Biau](http://www.lsta.upmc.fr/biau.html) and [Claire Boyer](https://www.lpsm.paris/pageperso/boyer/index.html).
 * **September 2019 - September 2020**, Co-organizer of the [PhD students seminar at LPSM](http://www.lpsm.paris/agenda/seminaires-gdt/gtt/).
