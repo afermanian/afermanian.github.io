@@ -9,13 +9,13 @@ I am interested in applications of rough path theory to statistics, and more pre
 
 ### Preprints
 
-* Fermanian, A., Marion. P., Vert, J.P., Biau, G. (2021). [Framing RNN as a kernel method: A neural ODE approach](https://arxiv.org/pdf/2106.01202.pdf) ([code](https://github.com/afermanian/rnn-kernel)).
-* Fermanian, A. (2020). [Linear functional regression with truncated signatures](https://arxiv.org/pdf/2006.08442.pdf) ([code](https://github.com/afermanian/signature-regression)).
-* Morrill, J., Fermanian, A., Kidger, P., Lyons, T. (2020). [A Generalised Signature Method for Time Series](https://arxiv.org/pdf/2006.00873.pdf) ([code](https://github.com/jambo6/generalised-signature-method)).
+* Fermanian, A. (2020). [Linear functional regression with truncated signatures](https://arxiv.org/pdf/2006.08442.pdf) [[code](https://github.com/afermanian/signature-regression)].
+* Morrill, J., Fermanian, A., Kidger, P., Lyons, T. (2020). [A Generalised Signature Method for Multivariate Time Series Feature Extraction](https://arxiv.org/pdf/2006.00873.pdf) [[code](https://github.com/jambo6/generalised-signature-method)].
 
-### Journal articles 
+### Published articles 
 
-* Fermanian, A. (2021). [Embedding and learning with signatures](https://arxiv.org/pdf/1911.13211.pdf), *Computational Statistics & Data Analysis*, **Vol. 157**, 107148. ([code](https://github.com/afermanian/embedding_with_signatures))
+* Fermanian, A., Marion. P., Vert, J.P., Biau, G. (2021). [Framing RNN as a kernel method: A neural ODE approach](https://arxiv.org/pdf/2106.01202.pdf), *Conference on Neural Information Processing Systems (NeurIPS 2021)*, oral presentation [[code](https://github.com/afermanian/rnn-kernel)].
+* Fermanian, A. (2021). [Embedding and learning with signatures](https://arxiv.org/pdf/1911.13211.pdf), *Computational Statistics & Data Analysis*, **Vol. 157**, 107148. [[code](https://github.com/afermanian/embedding_with_signatures)]
 
 ### Conference proceedings and miscellaneous
 
@@ -44,13 +44,11 @@ I have been a teaching assistant for the following courses.
 
 # Communications
 
-### Upcoming
-
-* **July 6th-9th 2021**, [Applications of Rough Paths: Computational Signatures and Data Science](https://icerm.brown.edu/topical_workshops/tw-21-rp/), *ICERM (The Institute for Computational and Experimental Research in Mathematics), Providence, United States*
-
-
 ### Past
 
+* **August 2021**, [Journées MAS 2020](https://mas2020.sciencesconf.org), *Société de Mathématiques Appliquées et Industrielles (SMAI), Orléans, France*
+* **July 2021**, [Applications of Rough Paths: Computational Signatures and Data Science](https://icerm.brown.edu/topical_workshops/tw-21-rp/), *ICERM (The Institute for Computational and Experimental Research in Mathematics), Providence, United States*
+* **June 2021**, [AIP seminar](https://team-approx-bayes.github.io/reading/), *RIKEN Center for Advanced Intelligence Project (AIP), Tokyo, Japan.*
 * **May 2021**, [Séminaire MODAL'X](https://modalx.parisnanterre.fr/seminaires/), *Université Paris Nanterre, Paris, France*
 * **May 2021**, [CRiSM (Center for Research in Statistical Methodology) seminar series](https://warwick.ac.uk/fac/sci/statistics/crism/seminars/), *Department of Statistics, University of Warwick, Warwick, United Kingdom*
 * **March 2021**, [Pathwise Stochastic Analysis and Applications](https://conferences.cirm-math.fr/2322.html), *CIRM, Marseille, France*
