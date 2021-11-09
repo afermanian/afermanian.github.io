@@ -11,7 +11,7 @@ I am since November 2021 a postdoctoral researcher at the [Center for Computatio
 
 Previously, I was a PhD student in Statistics at [LPSM](http://www.lpsm.paris/), Sorbonne Université, under the supervision of [Gérard Biau](http://www.lsta.upmc.fr/biau.html) and [Benoît Cadre](https://w3.ens-rennes.fr/math/people/benoit.cadre/). 
 
-You can find my complete CV here: [Curriculum Vitae]({{ site.url }}{{ site.baseurl }}/assets/Detailed_CV_Fermanian.pdf),
+You can find my complete CV here: [Curriculum Vitae]({{ site.url }}{{ site.baseurl }}/assets/docs/Detailed_CV_Fermanian.pdf),
 
 ## Research interests
 
@@ -19,5 +19,5 @@ I am generally interested in the mathematical theory of deep learning, in partic
 
 ## PhD dissertation
 
-You can find my PhD dissertation, entitled *"Learning time-dependent data with the signature transform"* [here]({{ site.url }}{{ site.baseurl }}/assets/thesis.pdf).
+You can find my PhD dissertation, entitled *"Learning time-dependent data with the signature transform"* [here]({{ site.url }}{{ site.baseurl }}/assets/docs/thesis.pdf).
 

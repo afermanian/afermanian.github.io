@@ -15,9 +15,9 @@ title: "Research"
 
 ## Conference proceedings and miscellaneous
 
-* [PhD dissertation (2021)]({{ site.url }}{{ site.baseurl }}/assets/thesis.pdf)
-* Biau, G. and Fermanian, A. (2020). [Learning with signatures]({{ site.baseurl }}/docs/Biau_and_Fermanian_2019.pdf), in *Functional and High-Dimensional Statistics and Related Fields*, pp. 19-26, Springer, Cham.
-* [Master thesis (2018)]({{ site.url }}{{ site.baseurl }}/assets/master_thesis_fermanian.pdf)
+* [PhD dissertation (2021)]({{ site.url }}{{ site.baseurl }}/assets/docs/thesis.pdf)
+* Biau, G. and Fermanian, A. (2020). [Learning with signatures]({{ site.baseurl }}/assets/docs/Biau_and_Fermanian_2019.pdf), in *Functional and High-Dimensional Statistics and Related Fields*, pp. 19-26, Springer, Cham.
+* [Master thesis (2018)]({{ site.url }}{{ site.baseurl }}/assets/docs/master_thesis_fermanian.pdf)
 
 
 

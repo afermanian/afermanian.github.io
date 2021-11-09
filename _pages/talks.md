@@ -34,9 +34,9 @@ title: "Talks & events"
 * January 2020, Post Graduate seminar of the [Chair for Mathematics of Information Processing](https://www.mathc.rwth-aachen.de/en/home/home/), *RWTH Aachen University, Aachen, Germany*
 * December 2019, [12th Oxford-Berlin Young Researchers Meeting on Applied Stochastic Analysis](https://www.maths.ox.ac.uk/events/conferences/12th-oxford-berlin-conference), *Oxford, United Kingdom*
 * November 2019, [Colloquium d’informatique de Sorbonne Université:](https://www.lip6.fr/colloquium/?guest=Chavier) participation in the masterclass of Caroline Chavier, *Paris, France*
-* October 2019, [Conference of the GDR TRAG 2019](https://trag2019.event.univ-lorraine.fr/), *Nancy, France* ([slides]({{ site.url }}{{ site.baseurl }}/docs/slides_trag.pdf))
-* June 2019, [Data Science Summer School](https://www.ds3-datascience-polytechnique.fr/), *École Polytechnique, Paris, France*, [poster]({{ site.baseurl }}/docs/DS3_fermanian.pdf)
-* June 2019, [51es Journées de Statistique](http://jds2019.sfds.asso.fr/), Nancy, France, ([slides]({{ site.url }}{{ site.baseurl }}/docs/slides_jds.pdf))
+* October 2019, [Conference of the GDR TRAG 2019](https://trag2019.event.univ-lorraine.fr/), *Nancy, France* ([slides]({{ site.url }}{{ site.baseurl }}/assets/docs/slides_trag.pdf))
+* June 2019, [Data Science Summer School](https://www.ds3-datascience-polytechnique.fr/), *École Polytechnique, Paris, France*, [poster]({{ site.baseurl }}/assets/docs/DS3_fermanian.pdf)
+* June 2019, [51es Journées de Statistique](http://jds2019.sfds.asso.fr/), Nancy, France, ([slides]({{ site.url }}{{ site.baseurl }}/assets/docs/slides_jds.pdf))
 * May 2019, PhD students seminar at LPSM, *Sorbonne Université, Paris, France*
 * April 2019, Rencontre des Jeunes Statisticiens, *Porquerolles, France*
 
