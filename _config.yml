@@ -21,7 +21,7 @@ url: https://afermanian.github.io # the base hostname & protocol for your site e
 twitter_username: AdelineFermani1
 github_username: afermanian
 minimal_mistakes_skin: dirt
-search: true
+search: false
 atom_feed:
   hide: true
 
@@ -61,6 +61,7 @@ author:
   # name   : "Adeline Fermanian"
   avatar : "/assets/images/photocv.jpg"
   bio    : "I am a postdoctoral researcher interested in theoretical machine learning."
+  location : "Paris, France"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
@@ -69,7 +70,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/afermanian"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-google"
+      icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.co.jp/citations?user=3Mfclk8AAAAJ&hl=en"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
@@ -87,7 +88,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/afermanian"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-google"
+      icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.co.jp/citations?user=3Mfclk8AAAAJ&hl=en"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
