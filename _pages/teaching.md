@@ -3,16 +3,14 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-## Students
+## Supervision
 
-* **May 2021 - July 2021** Co-supervision of Nathan Doumèche's master thesis with [Pierre Marion](https://pierremarion23.github.io) and [Gérard Biau](http://www.lsta.upmc.fr/biau.html)
-* **June 2020 - July 2020** Co-supervision of Linus Bleistein's master thesis on "SiGANtures: Generating Times Series Using
-Wasserstein-Generative Adversarial Nets and the Signature Transform" with [Gérard Biau](http://www.lsta.upmc.fr/biau.html) and [Claire Boyer](https://www.lpsm.paris/pageperso/boyer/index.html).
+* May-July 2021, Co-supervision of **Nathan Doumèche**'s master thesis on *Développement de Taylor signé et applications à l’apprentissage statistique* with [Gérard Biau](http://www.lsta.upmc.fr/biau.html) and [Pierre Marion](https://pierremarion23.github.io).
+* June-July 2020, Co-supervision of **Linus Bleistein**'s master thesis on *SiGANtures: Generating Times Series Using
+Wasserstein-Generative Adversarial Nets and the Signature Transform* with [Gérard Biau](http://www.lsta.upmc.fr/biau.html) and [Claire Boyer](https://www.lpsm.paris/pageperso/boyer/index.html).
 
 
-## Sorbonne Université
-
-I have been a teaching assistant for the following courses.
+## Teaching assistant at Sorbonne Université
 
 ### 2020-2021
 * Linear models (M1 ISUP, exercice classes).

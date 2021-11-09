@@ -3,18 +3,17 @@ permalink: /talks/
 title: "Talks & events"
 ---
 
-## Organization of events
+## Talks
 
 ### Upcoming
-
-* December 3rd 2021, Co-organizer of the [GDR TRAG Young researchers meeting](https://young-trag-2021.sciencesconf.org), *Paris, France*
-
-## Communications
-
-### Upcoming
+* November 22nd- 23rd 2021, 3IA doctoral workshop, *Toulouse, France*
+* December 15th 2021, [UCL Centre for Artificial Intelligence seminar](https://www.youtube.com/c/UCLCentreforArtificialIntelligence/featured), *London, United Kingdom* (remote)
+* January 4th 2022, Séminaire de Statistique, Optimisation et Probabilités, Institut de Mathématiques de Toulouse, *Université Toulouse III - Paul Sabatier, Toulouse, France*
+* June 27th-30th 2022, [IMS Annual Meeting in Probability and Statistics](https://www.imsannualmeeting-london2022.com), *London, United Kingdom*
 
 ### Past
 
+* October 2021, [Josef Teichmann](https://people.math.ethz.ch/~jteichma/)'s working group seminar, ETH Zürich, Zürich, Switzerland
 * August 2021, [Journées MAS 2020](https://mas2020.sciencesconf.org), *Société de Mathématiques Appliquées et Industrielles (SMAI), Orléans, France*
 * July 2021, [Applications of Rough Paths: Computational Signatures and Data Science](https://icerm.brown.edu/topical_workshops/tw-21-rp/), *ICERM (The Institute for Computational and Experimental Research in Mathematics), Providence, United States*
 * June 2021, [AIP seminar](https://team-approx-bayes.github.io/reading/), *RIKEN Center for Advanced Intelligence Project (AIP), Tokyo, Japan.*
@@ -42,6 +41,10 @@ title: "Talks & events"
 
 
 ## Scientific activities
+
+### Upcoming
+
+* December 3rd 2021, Co-organizer of the [GDR TRAG Young researchers meeting](https://young-trag-2021.sciencesconf.org), *Paris, France*
 
 ### Past
 * Novembre 2020 - September 2021 Co-organizer of a "Statistics and machine learning reading group" ([contact me](mailto:adeline.fermanian@sorbonne-universite.fr) to join us!)

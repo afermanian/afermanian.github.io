@@ -18,7 +18,6 @@ email: adeline.fermanian@minesparistech.fr
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my personal website!
 url: https://afermanian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl: /
 twitter_username: AdelineFermani1
 github_username: afermanian
 minimal_mistakes_skin: dirt
@@ -59,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Adeline Fermanian"
+  # name   : "Adeline Fermanian"
   avatar : "/assets/images/photocv.jpg"
   bio    : "I am a postdoctoral researcher interested in theoretical machine learning."
   links:

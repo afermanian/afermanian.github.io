@@ -15,7 +15,7 @@ You can find my complete CV here: [Curriculum Vitae]({{ site.url }}{{ site.baseu
 
 ## Research interests
 
-I am generally interested in the mathematical theory of deep learning, in particular in neural ordinary differential equations, post-selection inference, and learning with time series. The topic of my PhD was the application of signatures, a tool from stochastic analysis that allows to extract information from temporal data, in statistics and machine learning. This subject has been developed in two directions: on the one hand, designing new algorithms using signatures as features, and, on the other hand, leveraging the rich theory of signatures to study existing deep learning algorithms such as RNN, via the recent notion of neural ordinary differential equations. Check out the [DataSig website](https://datasig.ac.uk) for more information on applications of signatures in machine learning.
+I am generally interested in the mathematical theory of deep learning, in particular in neural ordinary differential equations, post-selection inference, and learning with time series. The topic of my PhD was the application of signatures, a tool from stochastic analysis that allows to extract information from temporal data, in statistics and machine learning. This subject has been developed in two directions: on the one hand, designing new algorithms using signatures as features, and, on the other hand, leveraging the theory of signatures to study existing deep learning algorithms such as RNN, via the recent notion of neural ordinary differential equations. Check out the [DataSig website](https://datasig.ac.uk) for more information on applications of signatures in machine learning.
 
 ## PhD dissertation
 
