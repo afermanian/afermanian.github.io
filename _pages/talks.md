@@ -7,12 +7,16 @@ title: "Talks & events"
 
 ### Upcoming
 
-* December 15th 2021, [UCL Centre for Artificial Intelligence seminar](https://www.youtube.com/c/UCLCentreforArtificialIntelligence/featured), *London, United Kingdom* (remote)
-* January 4th 2022, Séminaire de Statistique, Optimisation et Probabilités, Institut de Mathématiques de Toulouse, *Université Toulouse III - Paul Sabatier, Toulouse, France*
+* April 4th 2022, [The DNA Seminar](https://wiki.math.ntnu.no/seminar/dna) (Differential Equations and Numerical Analysis), online
 * June 27th-30th 2022, [IMS Annual Meeting in Probability and Statistics](https://www.imsannualmeeting-london2022.com), *London, United Kingdom*
+<!--- * July 11th-15th 2022, [2022 SIAM Annual Meeting](https://www.siam.org/conferences/cm/conference/an22), --->
+
 
 ### Past
 
+* January 2022, Séminaire de Statistique, Optimisation et Probabilités, Institut de Mathématiques de Toulouse, *Université Toulouse III - Paul Sabatier, Toulouse, France*
+* January 2022, [Séminaire Parisien de Statistique](https://sites.google.com/site/semstats/ann%C3%A9e-2021-2022/s%C3%A9ance-du-3-janvier-2022?authuser=0), *Institut Henri Poincaré, Paris, France
+* December 2021, [UCL Centre for Artificial Intelligence seminar](https://www.youtube.com/c/UCLCentreforArtificialIntelligence/featured), *London, United Kingdom*
 * November 2021, 3IA doctoral workshop, *[Artificial and Natural Intelligence Toulouse Institute (ANITI)](https://aniti.univ-toulouse.fr/en/), Toulouse, France*
 * October 2021, [Josef Teichmann](https://people.math.ethz.ch/~jteichma/)'s working group seminar, *ETH Zürich, Zürich, Switzerland*
 * August 2021, [Journées MAS 2020](https://mas2020.sciencesconf.org), *Société de Mathématiques Appliquées et Industrielles (SMAI), Orléans, France*
@@ -43,15 +47,15 @@ title: "Talks & events"
 
 ## Scientific activities
 
-### Upcoming
+### Scientific events organization
 
-* December 3rd 2021, Co-organizer of the [GDR TRAG Young researchers meeting](https://young-trag-2021.sciencesconf.org), *Paris, France*
 * December 8th 2021, Co-organizer of the [NeurIPS@Paris meeting](https://neurips2021paris.github.io), *Paris, France*
+* December 3rd 2021, Co-organizer of the [GDR TRAG Young researchers meeting](https://young-trag-2021.sciencesconf.org), *Paris, France*
 
-### Past
+### Seminars and reading groups organization
+
 * 2020 - 2021 Co-organizer of a "Statistics and machine learning reading group"
 * 2019 - 2021, Co-organizer of [InfoMaths](http://infomath.pages.math.cnrs.fr/), a seminar about informatic tools for mathematicians.
-* 2020 - 2021 Co-organizer of a "Statistics and machine learning reading group"
 * 2019 - 2020, Co-organizer of the [PhD students seminar at LPSM](http://www.lpsm.paris/agenda/seminaires-gdt/gtt/).
 * 2018 - 2019 Co-organizer of a reading group on rough paths
 

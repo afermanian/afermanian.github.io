@@ -10,12 +10,6 @@ Welcome to my personal webpage!
 I have defended my PhD thesis on October 15th, you can find my dissertation, entitled *Learning time-dependent data with the signature transform* [here]({{ site.url }}{{ site.baseurl }}/assets/docs/thesis.pdf).
 {: .notice--warning}
 
-I am co-organizing a workshop for young researchers working on rough trajectories (rough equations, stochastic partial differential equations, signature-based machine learning…) on **December 3rd** in Paris, check the [website](https://young-trag-2021.sciencesconf.org) for more information!
-{: .notice--warning}
-
-I am co-organizing an in-person NeurIPS@Paris meeting on **December 8**. Given that the NeurIPS conference is virtual, the goal of this event is to provide an opportunity to connect and discuss ML research presented at NeurIPS with researchers from the area. Furthermore, we invite those who have an accepted paper at NeurIPS 2021 to present their work to a live audience. Check the [website](https://neurips2021paris.github.io) for more information!
-{: .notice--warning}
-
 ## Short bio
 
 I am since November 2021 a postdoctoral researcher at the [Center for Computational Biology (CBIO)](https://cbio.ensmp.fr), [Mines ParisTech](https://www.minesparis.psl.eu), under the supervision of [Chloé-Agathe Azencott](http://cazencott.info/index.php), and funded by the [PRAIRIE](https://prairie-institute.fr) institute.
