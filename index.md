@@ -1,14 +1,10 @@
 ---
 layout: single
 author_profile: true
+classes: wide
 ---
 
 Welcome to my personal webpage! 
-
-## News
-
-I have defended my PhD thesis on October 15th, you can find my dissertation, entitled *Learning time-dependent data with the signature transform* [here]({{ site.url }}{{ site.baseurl }}/assets/docs/thesis.pdf).
-{: .notice--warning}
 
 ## Short bio
 

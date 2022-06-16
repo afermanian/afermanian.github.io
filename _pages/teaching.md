@@ -1,6 +1,7 @@
 ---
 permalink: /teaching/
 title: "Teaching"
+classes: wide
 ---
 
 ## Supervision
@@ -10,7 +11,7 @@ title: "Teaching"
 Wasserstein-Generative Adversarial Nets and the Signature Transform* with [Gérard Biau](http://www.lsta.upmc.fr/biau.html) and [Claire Boyer](https://www.lpsm.paris/pageperso/boyer/index.html).
 
 
-## Teaching assistant at Sorbonne Université
+## Teaching at Sorbonne Université
 
 ### 2020-2021
 * Linear models (M1 ISUP, exercice classes).
