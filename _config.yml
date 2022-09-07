@@ -59,7 +59,7 @@ plugins:
 
 author:
   # name   : "Adeline Fermanian"
-  avatar : "/assets/images/photocv.jpg"
+  avatar : "/assets/images/photoprofil.jpg"
   bio    : "I am a postdoctoral researcher interested in theoretical machine learning."
   location : "Paris, France"
   links:

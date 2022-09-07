@@ -4,20 +4,33 @@ title: "Talks & events"
 classes: wide
 ---
 
-## Talks
+## Upcoming talks
 
-### Upcoming
-
-* June 27th-30th 2022, [IMS Annual Meeting in Probability and Statistics](https://www.imsannualmeeting-london2022.com), *Rough Path Theory, Signatures and Applications* session, *London, United Kingdom*
-* July 11th-15th 2022, [2022 SIAM Annual Meeting](https://www.siam.org/conferences/cm/conference/an22), *Pittsburgh, Pennsylvania, United States*
-* July 18th-22nd 2022, [2nd Joint Congress of Mathematics AMS-EMS-SMF](https://ams-ems-smf2022.inviteo.fr/en/welcome/4), *Statistical learning* session *Grenoble, France*
-* August 30th 2022, [Stochastic Algorithms and Nonparametric Statistics group seminar](https://www.wias-berlin.de/research/rgs/fg6/), *Weierstrass Institute, Berlin, Germany*
 * September 15th-16th 2022, [London-Paris Bachelier Workshop](http://www.bachelier-paris.fr/london-paris-bachelier-workshop/), *Paris, France*
 * October 3rd-7th 2022, [Non-Linear and High Dimensional Inference](https://indico.math.cnrs.fr/category/498/), *Institut Henri Poincaré, Paris, France*
 
 
-### Past
+## Scientific activities
 
+### Events organization
+
+* December 8th 2021, Co-organizer of the [NeurIPS@Paris meeting](https://neurips2021paris.github.io), *Paris, France*
+* December 3rd 2021, Co-organizer of the [GDR TRAG Young researchers meeting](https://young-trag-2021.sciencesconf.org), *Paris, France*
+
+### Seminars and reading groups organization
+
+* 2020 - 2021 Co-organizer of a "Statistics and machine learning reading group"
+* 2019 - 2021, Co-organizer of [InfoMaths](http://infomath.pages.math.cnrs.fr/), a seminar about informatic tools for mathematicians.
+* 2019 - 2020, Co-organizer of the [PhD students seminar at LPSM](http://www.lpsm.paris/agenda/seminaires-gdt/gtt/).
+* 2018 - 2019 Co-organizer of a reading group on rough paths
+
+
+## Past talks
+
+* August 2022, [Stochastic Algorithms and Nonparametric Statistics group seminar](https://www.wias-berlin.de/research/rgs/fg6/), *Weierstrass Institute, Berlin, Germany*
+* July 2022, [2nd Joint Congress of Mathematics AMS-EMS-SMF](https://ams-ems-smf2022.inviteo.fr/en/welcome/4), *Statistical learning* session *Grenoble, France*
+* July 2022, [2022 SIAM Annual Meeting](https://www.siam.org/conferences/cm/conference/an22), *Pittsburgh, Pennsylvania, United States*
+* June 2022, [IMS Annual Meeting in Probability and Statistics](https://www.imsannualmeeting-london2022.com), *Rough Path Theory, Signatures and Applications* session, *London, United Kingdom*
 * June 2022, Groupe de travail Probas-Stats, [LPSM](https://www.lpsm.paris/), *Sorbonne Université, Paris, France*
 * April 2022, [The DNA Seminar](https://wiki.math.ntnu.no/seminar/dna) (Differential Equations and Numerical Analysis), online
 * January 2022, Séminaire de Statistique, Optimisation et Probabilités, Institut de Mathématiques de Toulouse, *Université Toulouse III - Paul Sabatier, Toulouse, France*
@@ -50,20 +63,6 @@ classes: wide
 * May 2019, PhD students seminar at LPSM, *Sorbonne Université, Paris, France*
 * April 2019, Rencontre des Jeunes Statisticiens, *Porquerolles, France*
 
-
-## Scientific activities
-
-### Scientific events organization
-
-* December 8th 2021, Co-organizer of the [NeurIPS@Paris meeting](https://neurips2021paris.github.io), *Paris, France*
-* December 3rd 2021, Co-organizer of the [GDR TRAG Young researchers meeting](https://young-trag-2021.sciencesconf.org), *Paris, France*
-
-### Seminars and reading groups organization
-
-* 2020 - 2021 Co-organizer of a "Statistics and machine learning reading group"
-* 2019 - 2021, Co-organizer of [InfoMaths](http://infomath.pages.math.cnrs.fr/), a seminar about informatic tools for mathematicians.
-* 2019 - 2020, Co-organizer of the [PhD students seminar at LPSM](http://www.lpsm.paris/agenda/seminaires-gdt/gtt/).
-* 2018 - 2019 Co-organizer of a reading group on rough paths
 
 
 

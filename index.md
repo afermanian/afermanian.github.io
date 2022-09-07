@@ -4,7 +4,7 @@ author_profile: true
 classes: wide
 ---
 
-Welcome to my personal webpage! 
+Welcome to my personal website! 
 
 ## Short bio
 
