@@ -6,7 +6,9 @@ classes: wide
 
 ## Upcoming talks
 
+* September 12th 2022, [HeKA](https://team.inria.fr/heka/) team (Inria) group seminar, *Paris, France*
 * September 15th-16th 2022, [London-Paris Bachelier Workshop](http://www.bachelier-paris.fr/london-paris-bachelier-workshop/), *Paris, France*
+* September 16th 2022, Groupe de travail "Deep learning", Institut de Mathématiques d'Orsay, Université Paris-Saclay, *Orsay, France*
 * October 3rd-7th 2022, [Non-Linear and High Dimensional Inference](https://indico.math.cnrs.fr/category/498/), *Institut Henri Poincaré, Paris, France*
 
 
@@ -32,7 +34,7 @@ classes: wide
 * July 2022, [2022 SIAM Annual Meeting](https://www.siam.org/conferences/cm/conference/an22), *Pittsburgh, Pennsylvania, United States*
 * June 2022, [IMS Annual Meeting in Probability and Statistics](https://www.imsannualmeeting-london2022.com), *Rough Path Theory, Signatures and Applications* session, *London, United Kingdom*
 * June 2022, Groupe de travail Probas-Stats, [LPSM](https://www.lpsm.paris/), *Sorbonne Université, Paris, France*
-* April 2022, [The DNA Seminar](https://wiki.math.ntnu.no/seminar/dna) (Differential Equations and Numerical Analysis), online
+* April 2022, [The DNA Seminar](https://wiki.math.ntnu.no/seminar/dna) (Differential Equations and Numerical Analysis), *NTNU, Trondheim, Norway*
 * January 2022, Séminaire de Statistique, Optimisation et Probabilités, Institut de Mathématiques de Toulouse, *Université Toulouse III - Paul Sabatier, Toulouse, France*
 * January 2022, [Séminaire Parisien de Statistique](https://sites.google.com/site/semstats/ann%C3%A9e-2021-2022/s%C3%A9ance-du-3-janvier-2022?authuser=0), *Institut Henri Poincaré, Paris, France
 * December 2021, [UCL Centre for Artificial Intelligence seminar](https://www.youtube.com/c/UCLCentreforArtificialIntelligence/featured), *London, United Kingdom*

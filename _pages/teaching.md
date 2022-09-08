@@ -20,5 +20,5 @@ Wasserstein-Generative Adversarial Nets and the Signature Transform* with [Géra
 ### As teaching assistant
 
 * **Linear models**, autumn 2020-2021 : exercise classes introducing linear models to 2nd year [ISUP](https://isup.sorbonne-universite.fr/) (Institut de Statistique de l'Université de Paris) students (graduate level)
-* **Inferential Statistics**, sprint 2020-2021: exercices classes introducing first notions of statistics (tests, parametric estimation...) to 1st year [ISUP](https://isup.sorbonne-universite.fr/) (Institut de Statistique de l'Université de Paris) students (graduate level)
+* **Inferential Statistics**, spring 2020-2021: exercices classes introducing first notions of statistics (tests, parametric estimation...) to 1st year [ISUP](https://isup.sorbonne-universite.fr/) (Institut de Statistique de l'Université de Paris) students (graduate level)
 * **Mathematical Statistics**, autumn 2019-2020 : computer labs in R to introduce basic notions of statistics to master students in applied mathematics at [Sorbonne Université](https://sciences.sorbonne-universite.fr/formation-sciences/masters/master-mathematiques-et-applications) (graduate level)
