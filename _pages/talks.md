@@ -4,13 +4,6 @@ title: "Talks & events"
 classes: wide
 ---
 
-## Upcoming talks
-
-* September 12th 2022, [HeKA](https://team.inria.fr/heka/) team (Inria) group seminar, *Paris, France*
-* September 15th-16th 2022, [London-Paris Bachelier Workshop](http://www.bachelier-paris.fr/london-paris-bachelier-workshop/), *Paris, France*
-* September 16th 2022, Groupe de travail "Deep learning", Institut de Mathématiques d'Orsay, Université Paris-Saclay, *Orsay, France*
-* October 3rd-7th 2022, [Non-Linear and High Dimensional Inference](https://indico.math.cnrs.fr/category/498/), *Institut Henri Poincaré, Paris, France*
-
 
 ## Scientific activities
 
@@ -29,6 +22,12 @@ classes: wide
 
 ## Past talks
 
+* October 2022, [Séminaire de Probabilités et Statistique](https://lama.u-pem.fr/evenements/seminaire/seminaire_de_probabilites_et_statistiques), *[LAMA](https://lama.u-pem.fr/), Université Gustave Eiffel, Champs-sur-Marne, France*
+* October 2022, [Learning and Optimization in Luminy (LOL 2022)](https://conferences.cirm-math.fr/2551.html), *Centre International de Rencontres Mathématiques, Marseille, France*
+* October 2022, [Non-Linear and High Dimensional Inference](https://indico.math.cnrs.fr/category/498/), *Institut Henri Poincaré, Paris, France*
+* September 2022, Groupe de travail "Deep learning", Institut de Mathématiques d'Orsay, Université Paris-Saclay, *Orsay, France*
+* September 2022, [London-Paris Bachelier Workshop](http://www.bachelier-paris.fr/london-paris-bachelier-workshop/), *Paris, France*
+* September 2022, [HeKA](https://team.inria.fr/heka/) team (Inria) group seminar, *Paris, France*
 * August 2022, [Stochastic Algorithms and Nonparametric Statistics group seminar](https://www.wias-berlin.de/research/rgs/fg6/), *Weierstrass Institute, Berlin, Germany*
 * July 2022, [2nd Joint Congress of Mathematics AMS-EMS-SMF](https://ams-ems-smf2022.inviteo.fr/en/welcome/4), *Statistical learning* session *Grenoble, France*
 * July 2022, [2022 SIAM Annual Meeting](https://www.siam.org/conferences/cm/conference/an22), *Pittsburgh, Pennsylvania, United States*
