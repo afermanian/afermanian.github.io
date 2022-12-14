@@ -34,6 +34,7 @@ classes: wide
 * June 2022, [IMS Annual Meeting in Probability and Statistics](https://www.imsannualmeeting-london2022.com), *Rough Path Theory, Signatures and Applications* session, *London, United Kingdom*
 * June 2022, Groupe de travail Probas-Stats, [LPSM](https://www.lpsm.paris/), *Sorbonne Université, Paris, France*
 * April 2022, [The DNA Seminar](https://wiki.math.ntnu.no/seminar/dna) (Differential Equations and Numerical Analysis), *NTNU, Trondheim, Norway*
+* January 2022, Séminaire de Finance mathématiques, Centre d'Économie de la Sorbonne, *Université Paris 1 Panthéon-Sorbonne, Paris, France*
 * January 2022, Séminaire de Statistique, Optimisation et Probabilités, Institut de Mathématiques de Toulouse, *Université Toulouse III - Paul Sabatier, Toulouse, France*
 * January 2022, [Séminaire Parisien de Statistique](https://sites.google.com/site/semstats/ann%C3%A9e-2021-2022/s%C3%A9ance-du-3-janvier-2022?authuser=0), *Institut Henri Poincaré, Paris, France
 * December 2021, [UCL Centre for Artificial Intelligence seminar](https://www.youtube.com/c/UCLCentreforArtificialIntelligence/featured), *London, United Kingdom*
