@@ -4,7 +4,7 @@ author_profile: true
 classes: wide
 ---
 
-Welcome to my personal website! If you want to get in touch, send me an email at adeline.fermanian@mines-paristech.fr.
+Welcome to my personal website! If you want to get in touch, you can contact me at [adeline.fermanian@mines-paristech.fr](mailto:adeline.fermanian@mines-paristech.fr)
 
 ## Short bio
 

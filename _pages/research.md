@@ -7,7 +7,7 @@ classes: wide
 ## Published articles 
 
 * **New Directions in the Applications of Rough Path Theory**. Fermanian, A., Lyons, T., Morrill, J., Salvi, C. (2023)  
-in *IEEE BITS the Information Theory Magazine*
+in *IEEE BITS the Information Theory Magazine*  
 [<i class="fas fa-file-pdf"></i> pdf](https://arxiv.org/abs/2302.04586){: .btn}
 
 * **Functional linear regression with truncated signatures**. Fermanian, A. (2022)  
