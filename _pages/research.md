@@ -6,6 +6,10 @@ classes: wide
 
 ## Published articles 
 
+* **New Directions in the Applications of Rough Path Theory**. Fermanian, A., Lyons, T., Morrill, J., Salvi, C. (2023)  
+in *IEEE BITS the Information Theory Magazine*
+[<i class="fas fa-file-pdf"></i> pdf](https://arxiv.org/abs/2302.04586){: .btn}
+
 * **Functional linear regression with truncated signatures**. Fermanian, A. (2022)  
 *Journal of Multivariate Analysis*, Vol. 192, 105031  
 [<i class="fas fa-file-pdf"></i> pdf](https://arxiv.org/pdf/2006.08442.pdf){: .btn}  [<i class="fab fa-github"></i> code](https://github.com/afermanian/signature-regression){: .btn}
@@ -20,6 +24,10 @@ in *Advances in Neural Information Processing Systems*, ed. Ranzato, M., Beygelz
 
 
 ## Preprints
+
+* **Learning the Dynamics of Sparsely Observed Interacting Systems**. Bleistein L., Fermanian, A., Jannot A.S., Guilloux, A. (2023)  
+[<i class="fas fa-file-pdf"></i> pdf](https://arxiv.org/pdf/2301.11647.pdf){: .btn}  [<i class="fab fa-github"></i> code](https://github.com/LinusBleistein/SigLasso){: .btn}
+
 
 * **Scaling ResNets in the Large-depth Regime**. Marion P., Fermanian, A., Biau G., Vert, J.P. (2022)  
 [<i class="fas fa-file-pdf"></i> pdf](https://arxiv.org/abs/2206.06929){: .btn}  [<i class="fab fa-github"></i> code](https://github.com/PierreMarion23/scaling-resnets){: .btn}
