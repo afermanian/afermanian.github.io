@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Adeline Fermanian
-email: adeline.fermanian@mines-paristech.fr
+email: adeline.fermanian@califrais.fr
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my personal website!
 url: https://afermanian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -60,12 +60,12 @@ plugins:
 author:
   # name   : "Adeline Fermanian"
   avatar : "/assets/images/photoprofil.jpg"
-  bio    : "I am a postdoctoral researcher interested in theoretical machine learning."
+  bio    : "Machine learning researcher."
   location : "Paris, France"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:adeline.fermanian[at]mines-paristech[dot]fr"
+      url: "mailto:adeline.fermanian[at]califrais[dot]fr"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/afermanian"
@@ -83,7 +83,7 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:adeline.fermanian[at]mines-paristech[dot]fr"
+      url: "mailto:adeline.fermanian[at]califrais[dot]fr"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/afermanian"
