@@ -7,6 +7,10 @@ classes: wide
 
 ## Scientific activities
 
+## Upcoming talks
+
+* September 2023, [Séminaire de Probabilités et Statistique](https://imag.umontpellier.fr/?page_id=625&idsem=13), *IMAG, Université de Montpellier, Montpellier, France*
+
 ### Events organization
 
 * December 15th 2022, Co-organizer of a workshop on fairness at the [AI Act Day](https://www.impact-ai.fr/fr/aiactday/), *Paris, France*

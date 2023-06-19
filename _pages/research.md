@@ -6,6 +6,12 @@ classes: wide
 
 ## Published articles 
 
+
+* **Learning the Dynamics of Sparsely Observed Interacting Systems**. Bleistein L., Fermanian, A., Jannot A.S., Guilloux, A. (2023) 
+in *Proceedings of the 40th International Conference on Machine Learning*  
+[<i class="fas fa-file-pdf"></i> article](https://arxiv.org/pdf/2301.11647.pdf){: .btn}  [<i class="fab fa-github"></i> code](https://github.com/LinusBleistein/SigLasso){: .btn}
+
+
 * **New Directions in the Applications of Rough Path Theory**. Fermanian, A., Lyons, T., Morrill, J., Salvi, C. (2023)  
 in *IEEE BITS the Information Theory Magazine*  
 [<i class="fas fa-file-pdf"></i> article](https://arxiv.org/abs/2302.04586){: .btn}
@@ -27,9 +33,6 @@ in *Advances in Neural Information Processing Systems*, ed. Ranzato, M., Beygelz
 
 * **The insertion method to invert the signature of a path**. Fermanian, A., Chang, J., Lyons T., Biau, G. (2023)  
 [<i class="fas fa-file-pdf"></i> article](https://arxiv.org/pdf/2304.01862.pdf){: .btn}  [<i class="fab fa-github"></i> code](https://github.com/patrick-kidger/signatory/blob/master/src/signatory/signature_inversion_module.py){: .btn}
-
-* **Learning the Dynamics of Sparsely Observed Interacting Systems**. Bleistein L., Fermanian, A., Jannot A.S., Guilloux, A. (2023)  
-[<i class="fas fa-file-pdf"></i> article](https://arxiv.org/pdf/2301.11647.pdf){: .btn}  [<i class="fab fa-github"></i> code](https://github.com/LinusBleistein/SigLasso){: .btn}
 
 
 * **Scaling ResNets in the Large-depth Regime**. Marion P., Fermanian, A., Biau G., Vert, J.P. (2022)  
