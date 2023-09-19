@@ -7,7 +7,7 @@ classes: wide
 ## Published articles 
 
 
-* **Learning the Dynamics of Sparsely Observed Interacting Systems**. Bleistein L., Fermanian, A., Jannot A.S., Guilloux, A. (2023) 
+* **Learning the Dynamics of Sparsely Observed Interacting Systems**. Bleistein, L., Fermanian, A., Jannot, A.S., Guilloux, A. (2023) 
 in *Proceedings of the 40th International Conference on Machine Learning*  
 [<i class="fas fa-file-pdf"></i> article](https://arxiv.org/pdf/2301.11647.pdf){: .btn}  [<i class="fab fa-github"></i> code](https://github.com/LinusBleistein/SigLasso){: .btn}
 
@@ -20,7 +20,7 @@ in *IEEE BITS the Information Theory Magazine*
 *Journal of Multivariate Analysis*, Vol. 192, 105031  
 [<i class="fas fa-file-pdf"></i> article](https://arxiv.org/pdf/2006.08442.pdf){: .btn}  [<i class="fab fa-github"></i> code](https://github.com/afermanian/signature-regression){: .btn}
 
-* **Framing RNN as a kernel method: A neural ODE approach**. Fermanian, A., Marion. P., Vert, J.P., Biau, G. (2021)  
+* **Framing RNN as a kernel method: A neural ODE approach**. Fermanian, A., Marion, P., Vert, J.P., Biau, G. (2021)  
 in *Advances in Neural Information Processing Systems*, ed. Ranzato, M., Beygelzimer, A., Dauphin, Y., Liang, P.S. and Wortman Vaughan, J., Vol. 34, pp. 3121-3134, Curran Associates, Inc. (oral presentation)  
 [<i class="fas fa-file-pdf"></i> article](https://arxiv.org/pdf/2106.01202.pdf){: .btn}  [<i class="fab fa-github"></i> code](https://github.com/afermanian/rnn-kernel){: .btn}
 
@@ -31,11 +31,15 @@ in *Advances in Neural Information Processing Systems*, ed. Ranzato, M., Beygelz
 
 ## Preprints
 
-* **The insertion method to invert the signature of a path**. Fermanian, A., Chang, J., Lyons T., Biau, G. (2023)  
+* **FLASH: a Fast joint model for Longitudinal And Survival data in High dimension**. Nguyen, V. T., Fermanian, A., Guilloux, A., Barbieri, A., Zohar, S., Jannot, A.-S., Bussy, S. (2023)  
+[<i class="fas fa-file-pdf"></i> article](https://arxiv.org/pdf/2309.03714.pdf){: .btn}  [<i class="fab fa-github"></i> code](https://github.com/Califrais/flash){: .btn}
+
+
+* **The insertion method to invert the signature of a path**. Fermanian, A., Chang, J., Lyons, T., Biau, G. (2023)  
 [<i class="fas fa-file-pdf"></i> article](https://arxiv.org/pdf/2304.01862.pdf){: .btn}  [<i class="fab fa-github"></i> code](https://github.com/patrick-kidger/signatory/blob/master/src/signatory/signature_inversion_module.py){: .btn}
 
 
-* **Scaling ResNets in the Large-depth Regime**. Marion P., Fermanian, A., Biau G., Vert, J.P. (2022)  
+* **Scaling ResNets in the Large-depth Regime**. Marion, P., Fermanian, A., Biau, G., Vert, J.P. (2022)  
 [<i class="fas fa-file-pdf"></i> article](https://arxiv.org/abs/2206.06929){: .btn}  [<i class="fab fa-github"></i> code](https://github.com/PierreMarion23/scaling-resnets){: .btn}
 
 * **A Generalised Signature Method for Multivariate Time Series Feature Extraction**. Morrill, J., Fermanian, A., Kidger, P., Lyons, T. (2020)  

@@ -8,7 +8,7 @@ classes: wide
 
 ## Upcoming talks
 
-* September 2023, [Séminaire de Probabilités et Statistique](https://imag.umontpellier.fr/?page_id=625&idsem=13), *IMAG, Université de Montpellier, Montpellier, France*
+* September 2023, Soirée CDO & HR - Minimiser son empreinte environnementale : quelles solutions Data/IA utiliser ?, [Datacraft](https://datacraft.paris/event/soiree-cdo-hr-minimiser-son-empreinte-environnementale-quelles-solutions-data-ia-utiliser/), *Paris, France*
 
 ## Scientific activities
 
@@ -28,6 +28,7 @@ classes: wide
 
 ## Past talks
 
+* September 2023, [Séminaire de Probabilités et Statistique](https://imag.umontpellier.fr/?page_id=625&idsem=13), *IMAG, Université de Montpellier, Montpellier, France*
 * October 2022, [Séminaire de Probabilités et Statistique](https://lama.u-pem.fr/evenements/seminaire/seminaire_de_probabilites_et_statistiques), *[LAMA](https://lama.u-pem.fr/), Université Gustave Eiffel, Champs-sur-Marne, France*
 * October 2022, [Learning and Optimization in Luminy (LOL 2022)](https://conferences.cirm-math.fr/2551.html), *Centre International de Rencontres Mathématiques, Marseille, France*
 * October 2022, [Non-Linear and High Dimensional Inference](https://indico.math.cnrs.fr/category/498/), *Institut Henri Poincaré, Paris, France*
