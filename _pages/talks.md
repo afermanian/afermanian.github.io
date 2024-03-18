@@ -8,7 +8,9 @@ classes: wide
 
 ## Upcoming talks
 
-* September 2023, Soirée CDO & HR - Minimiser son empreinte environnementale : quelles solutions Data/IA utiliser ?, [Datacraft](https://datacraft.paris/event/soiree-cdo-hr-minimiser-son-empreinte-environnementale-quelles-solutions-data-ia-utiliser/), *Paris, France*
+* April 2024, Spring school and workshop [Mathematics of data streams: signatures, neural differential equations, and diffusion models](https://raph-ai.github.io/sig-workshop-greifswald-2024/), *Greifswald, Germany*
+* April 2024, [2024 Conference on Modern Topics in Stochastic Analysis and Applications (in honour of Terry Lyons’ 70th birthday) ](https://www.imperial.ac.uk/events/168741/conference-on-modern-topics-in-stochastic-analysis-and-applications-in-honour-of-terry-lyons-70th-birthday/), *London, United Kingdom*
+
 
 ## Scientific activities
 
@@ -28,6 +30,8 @@ classes: wide
 
 ## Past talks
 
+* December 2023, Conference [Signature, applications et Machine Learning](https://sites.google.com/view/sign-ml-pau-2023/home?pli=1), *Pau, France*
+* September 2023, Soirée CDO & HR - Minimiser son empreinte environnementale : quelles solutions Data/IA utiliser ?, [Datacraft](https://datacraft.paris/event/soiree-cdo-hr-minimiser-son-empreinte-environnementale-quelles-solutions-data-ia-utiliser/), *Paris, France*
 * September 2023, [Séminaire de Probabilités et Statistique](https://imag.umontpellier.fr/?page_id=625&idsem=13), *IMAG, Université de Montpellier, Montpellier, France*
 * October 2022, [Séminaire de Probabilités et Statistique](https://lama.u-pem.fr/evenements/seminaire/seminaire_de_probabilites_et_statistiques), *[LAMA](https://lama.u-pem.fr/), Université Gustave Eiffel, Champs-sur-Marne, France*
 * October 2022, [Learning and Optimization in Luminy (LOL 2022)](https://conferences.cirm-math.fr/2551.html), *Centre International de Rencontres Mathématiques, Marseille, France*

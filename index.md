@@ -6,14 +6,10 @@ classes: wide
 
 Welcome to my personal website! If you want to get in touch, you can contact me at [adeline.fermanian@califrais.fr](mailto:adeline.fermanian@califrais.fr)
 
-## News
-
-We are hiring a research engineer at Califrais! Check out the offer [here](https://www.jobteaser.com/fr/job-offers/11598349-califrais-research-engineer-h-f-partenariat-cnrs-lpsm) and contact me if you are interested. 
-
 
 ## Short bio
 
-I have joined [Califrais](https://www.califrais.fr/) in April 2023 as a machine learning researcher. We work on developing articifical intelligence tools for fresh produce logistics, with many research topics such as demand predictive analysis, perishable goods stock optimization, dynamic pricing... The general goal is to minimize the carbon footprint of the fresh produce supply chain (for example by maximizing the trucks fill rate) and to minimize food waste.
+I have joined [Califrais](https://www.califrais.fr/) in April 2023 as a machine learning researcher. We work on developing articifical intelligence tools for fresh produce logistics, with many research topics such as demand predictive analysis, perishable goods stock optimization, dynamic pricing... The general goal is to minimize the carbon footprint of the fresh produce supply chain (for example by maximizing the trucks fill rate) and to minimize food waste. 
 
 I was between November 2021 and November 2022 a postdoctoral researcher at the [Center for Computational Biology (CBIO)](https://cbio.ensmp.fr), [Mines ParisTech](https://www.minesparis.psl.eu), under the supervision of [Chloé-Agathe Azencott](http://cazencott.info/index.php), and funded by the [PRAIRIE](https://prairie-institute.fr) institute.
 

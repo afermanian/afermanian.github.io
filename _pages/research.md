@@ -31,6 +31,17 @@ in *Advances in Neural Information Processing Systems*, ed. Ranzato, M., Beygelz
 
 ## Preprints
 
+* **Dynamical Survival Analysis with Controlled Latent States**. Bleistein, L., Nguyen, V. T., Fermanian, A., Guilloux, A. (2024)  
+[<i class="fas fa-file-pdf"></i> article](https://arxiv.org/pdf/2401.17077.pdf){: .btn} 
+
+* **Multivariate Online Linear Regression for Hierarchical Forecasting**. Hihat, M., Garrigos, G., Fermanian, A., Bussy, S. (2024)  
+[<i class="fas fa-file-pdf"></i> article](https://arxiv.org/pdf/2402.14578.pdf){: .btn} 
+
+
+* **Non-asymptotic Analysis of Biased Adaptive Stochastic Approximation**. Surendran, S., Godichon-Baggioni, A., Fermanian, A., Le Corff, S. (2024)  
+[<i class="fas fa-file-pdf"></i> article](https://arxiv.org/pdf/2402.02857.pdf){: .btn} 
+
+
 * **FLASH: a Fast joint model for Longitudinal And Survival data in High dimension**. Nguyen, V. T., Fermanian, A., Guilloux, A., Barbieri, A., Zohar, S., Jannot, A.-S., Bussy, S. (2023)  
 [<i class="fas fa-file-pdf"></i> article](https://arxiv.org/pdf/2309.03714.pdf){: .btn}  [<i class="fab fa-github"></i> code](https://github.com/Califrais/flash){: .btn}
 
@@ -52,6 +63,10 @@ I have defended my PhD thesis in October 2021, you can find my dissertation, ent
 
 
 ## Conference proceedings and miscellaneous
+
+* **Rough paths and SPDE**. Bailleul, I., Bellingeri, C., Bruned, Y., Fermanian, A., Marie, N. (2023)
+in *ESAIM: Proceedings and surveys, Vol. 74, pp. 169-184*
+[<i class="fas fa-file-pdf"></i> article](https://www.esaim-proc.org/articles/proc/pdf/2023/03/proc230811.pdf){: .btn}
 
 * **Learning with signatures**. Biau, G. and Fermanian, A. (2020)  
 in *Functional and High-Dimensional Statistics and Related Fields, pp. 19-26, Springer, Cham.*  
