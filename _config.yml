@@ -60,7 +60,7 @@ plugins:
 author:
   # name   : "Adeline Fermanian"
   avatar : "/assets/images/photoprofil.jpg"
-  bio    : "Machine learning researcher."
+  bio    : "Head of research @Califrais"
   location : "Paris, France"
   links:
     - label: "Email"

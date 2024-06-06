@@ -6,6 +6,9 @@ classes: wide
 
 ## Supervision
 
+
+### Internships
+
 * May-July 2021, Co-supervision of **Nathan Doumèche**'s master thesis on *Développement de Taylor signé et applications à l’apprentissage statistique* with [Gérard Biau](http://www.lsta.upmc.fr/biau.html) and [Pierre Marion](https://pierremarion23.github.io).
 * June-July 2020, Co-supervision of **Linus Bleistein**'s master thesis on *SiGANtures: Generating Times Series Using
 Wasserstein-Generative Adversarial Nets and the Signature Transform* with [Gérard Biau](http://www.lsta.upmc.fr/biau.html) and [Claire Boyer](https://www.lpsm.paris/pageperso/boyer/index.html).
@@ -14,6 +17,7 @@ Wasserstein-Generative Adversarial Nets and the Signature Transform* with [Géra
 
 ### As lecturer
 
+* **Notions de statistique**, spring 2024: introduction to statistics in the [Bachelor ACT](https://programme.bacheloract.fr/) (bachelor level)
 * **Large-Scale Machine Learning**, spring 2023: one introductory session and one session on Natural Language Processing) at [Mines ParisTech](https://www.minesparis.psl.eu/) (master level)
 * **Data Science**, spring 2022: a course introducing data science to 1st year engineering students at [Mines ParisTech](https://www.minesparis.psl.eu/) (bachelor level)
 * **Return to graduate studies diploma for exiles**, spring 2019-2022 : refresher course on mathematics for continuing education at [Sorbonne Université](https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/du-respe) (high school level)

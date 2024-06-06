@@ -4,16 +4,22 @@ author_profile: true
 classes: wide
 ---
 
-Welcome to my personal website! If you want to get in touch, you can contact me at [adeline.fermanian@califrais.fr](mailto:adeline.fermanian@califrais.fr)
+I am currently head of research at [Califrais](https://www.califrais.fr/). Our goal is to optimize large-scale food flows, in order to contribute to the decarbonization of the food supply chain. Our research is then at the intersection of machine learning, logistics optimization, and ecology, with topics such as demand forecasting, inventory optimization, routing problems... To learn more, check out our papers [here](https://www.califrais.fr/en/publications).
 
+
+We are recruiting! We have an offer for a 2-year post-doctorate at Sorbonne University's Laboratoire de Probabilités, Statistique et Modélisation (LPSM) and at Califrais, co-supervised by [Gérard Biau](https://perso.lpsm.paris/~biau/), [Claire Boyer](https://perso.lpsm.paris/~cboyer/) and myself. You can find the offer [here]({{ site.url }}{{ site.baseurl }}/assets/docs/post_doc_2024.pdf), contact me if you are interested.
+
+
+
+If you want to get in touch, you can contact me at [adeline.fermanian@califrais.fr](mailto:adeline.fermanian@califrais.fr)
 
 ## Short bio
 
-I have joined [Califrais](https://www.califrais.fr/) in April 2023 as a machine learning researcher. We work on developing articifical intelligence tools for fresh produce logistics, with many research topics such as demand predictive analysis, perishable goods stock optimization, dynamic pricing... The general goal is to minimize the carbon footprint of the fresh produce supply chain (for example by maximizing the trucks fill rate) and to minimize food waste. 
+I have joined the research team of [Califrais](https://www.califrais.fr/) in April 2023.
 
-I was between November 2021 and November 2022 a postdoctoral researcher at the [Center for Computational Biology (CBIO)](https://cbio.ensmp.fr), [Mines ParisTech](https://www.minesparis.psl.eu), under the supervision of [Chloé-Agathe Azencott](http://cazencott.info/index.php), and funded by the [PRAIRIE](https://prairie-institute.fr) institute.
+Before that, I was a postdoctoral researcher at the [Center for Computational Biology (CBIO)](https://cbio.ensmp.fr), [Mines ParisTech](https://www.minesparis.psl.eu), between November 2021 and November 2022, under the supervision of [Chloé-Agathe Azencott](http://cazencott.info/index.php), and funded by the [PRAIRIE](https://prairie-institute.fr) institute.
 
-Previously, I was a PhD student in Statistics at [LPSM](http://www.lpsm.paris/), Sorbonne Université, under the supervision of [Gérard Biau](http://www.lsta.upmc.fr/biau.html) and [Benoît Cadre](https://w3.ens-rennes.fr/math/people/benoit.cadre/). 
+Previously, I was a Ph.D. student in Statistics at the [LPSM](http://www.lpsm.paris/), Sorbonne Université, under the supervision of [Gérard Biau](http://www.lsta.upmc.fr/biau.html) and [Benoît Cadre](https://w3.ens-rennes.fr/math/people/benoit.cadre/). 
 
 You can find my complete CV here: [Curriculum Vitae]({{ site.url }}{{ site.baseurl }}/assets/docs/Detailed_CV_Fermanian.pdf),
 

@@ -8,8 +8,7 @@ classes: wide
 
 ## Upcoming talks
 
-* April 2024, Spring school and workshop [Mathematics of data streams: signatures, neural differential equations, and diffusion models](https://raph-ai.github.io/sig-workshop-greifswald-2024/), *Greifswald, Germany*
-* April 2024, [2024 Conference on Modern Topics in Stochastic Analysis and Applications (in honour of Terry Lyons’ 70th birthday) ](https://www.imperial.ac.uk/events/168741/conference-on-modern-topics-in-stochastic-analysis-and-applications-in-honour-of-terry-lyons-70th-birthday/), *London, United Kingdom*
+* July 2024, [Séminaire du LMAP](https://lma-umr5142.univ-pau.fr/fr/activites-scientifiques/seminaires.html), *Université de Pau et des Pays de l'Adour, Pau, France*
 
 
 ## Scientific activities
@@ -30,6 +29,9 @@ classes: wide
 
 ## Past talks
 
+* May 2024, [MLDMA seminar](https://centreborelli.ens-paris-saclay.fr/fr/SMLMDA), Centre Borelli, *ENS Paris-Saclay, Gif-sur-Yvette, France*
+* April 2024, [2024 Conference on Modern Topics in Stochastic Analysis and Applications (in honour of Terry Lyons’ 70th birthday) ](https://www.imperial.ac.uk/events/168741/conference-on-modern-topics-in-stochastic-analysis-and-applications-in-honour-of-terry-lyons-70th-birthday/), *London, United Kingdom*
+* April 2024, Spring school and workshop [Mathematics of data streams: signatures, neural differential equations, and diffusion models](https://raph-ai.github.io/sig-workshop-greifswald-2024/), *Greifswald, Germany*
 * December 2023, Conference [Signature, applications et Machine Learning](https://sites.google.com/view/sign-ml-pau-2023/home?pli=1), *Pau, France*
 * September 2023, Soirée CDO & HR - Minimiser son empreinte environnementale : quelles solutions Data/IA utiliser ?, [Datacraft](https://datacraft.paris/event/soiree-cdo-hr-minimiser-son-empreinte-environnementale-quelles-solutions-data-ia-utiliser/), *Paris, France*
 * September 2023, [Séminaire de Probabilités et Statistique](https://imag.umontpellier.fr/?page_id=625&idsem=13), *IMAG, Université de Montpellier, Montpellier, France*
