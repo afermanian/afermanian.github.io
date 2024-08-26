@@ -6,6 +6,10 @@ classes: wide
 
 ## Published articles 
 
+* **Dynamical Survival Analysis with Controlled Latent States**. Bleistein, L., Nguyen, V. T., Fermanian, A., Guilloux, A. (2024)  
+in *Proceedings of the 41st International Conference on Machine Learning*  
+[<i class="fas fa-file-pdf"></i> article](https://arxiv.org/pdf/2401.17077.pdf){: .btn}  [<i class="fab fa-github"></i> code](https://github.com/LinusBleistein/signature_survival){: .btn}
+
 
 * **Learning the Dynamics of Sparsely Observed Interacting Systems**. Bleistein, L., Fermanian, A., Jannot, A.S., Guilloux, A. (2023) 
 in *Proceedings of the 40th International Conference on Machine Learning*  
@@ -31,8 +35,6 @@ in *Advances in Neural Information Processing Systems*, ed. Ranzato, M., Beygelz
 
 ## Preprints
 
-* **Dynamical Survival Analysis with Controlled Latent States**. Bleistein, L., Nguyen, V. T., Fermanian, A., Guilloux, A. (2024)  
-[<i class="fas fa-file-pdf"></i> article](https://arxiv.org/pdf/2401.17077.pdf){: .btn} 
 
 * **Multivariate Online Linear Regression for Hierarchical Forecasting**. Hihat, M., Garrigos, G., Fermanian, A., Bussy, S. (2024)  
 [<i class="fas fa-file-pdf"></i> article](https://arxiv.org/pdf/2402.14578.pdf){: .btn} 
@@ -52,6 +54,7 @@ in *Advances in Neural Information Processing Systems*, ed. Ranzato, M., Beygelz
 
 * **Scaling ResNets in the Large-depth Regime**. Marion, P., Fermanian, A., Biau, G., Vert, J.P. (2022)  
 [<i class="fas fa-file-pdf"></i> article](https://arxiv.org/abs/2206.06929){: .btn}  [<i class="fab fa-github"></i> code](https://github.com/PierreMarion23/scaling-resnets){: .btn}
+
 
 * **A Generalised Signature Method for Multivariate Time Series Feature Extraction**. Morrill, J., Fermanian, A., Kidger, P., Lyons, T. (2020)  
 [<i class="fas fa-file-pdf"></i> article](https://arxiv.org/pdf/2006.00873.pdf){: .btn}  [<i class="fab fa-github"></i> code](https://github.com/jambo6/generalised-signature-method){: .btn}
