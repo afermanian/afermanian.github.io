@@ -8,13 +8,13 @@ classes: wide
 
 ## Upcoming talks
 
-* July 2024, [Séminaire du LMAP](https://lma-umr5142.univ-pau.fr/fr/activites-scientifiques/seminaires.html), *Université de Pau et des Pays de l'Adour, Pau, France*
-
+* September 2024, [Séminaire Parisien de Statistique](https://sites.google.com/site/semstats/ann%C3%A9e-2024-2025/s%C3%A9ance-du-23-septembre-2024?authuser=0), *Institut Henri Poincaré, Paris, France*
 
 ## Scientific activities
 
 ### Events organization
 
+* September 2024, Co-organizer of a workshop on [Time series forecasting](https://datacraft.paris/event/workshop-time-series-forecasting/) with Datacraft, *Paris, France*
 * December 15th 2022, Co-organizer of a workshop on fairness at the [AI Act Day](https://www.impact-ai.fr/fr/aiactday/), *Paris, France*
 * December 8th 2021, Co-organizer of the [NeurIPS@Paris meeting](https://neurips2021paris.github.io), *Paris, France*
 * December 3rd 2021, Co-organizer of the [GDR TRAG Young researchers meeting](https://young-trag-2021.sciencesconf.org), *Paris, France*
@@ -29,6 +29,7 @@ classes: wide
 
 ## Past talks
 
+* July 2024, [Séminaire du LMAP](https://lma-umr5142.univ-pau.fr/fr/activites-scientifiques/seminaires.html), *Université de Pau et des Pays de l'Adour, Pau, France*
 * May 2024, [MLDMA seminar](https://centreborelli.ens-paris-saclay.fr/fr/SMLMDA), Centre Borelli, *ENS Paris-Saclay, Gif-sur-Yvette, France*
 * April 2024, [2024 Conference on Modern Topics in Stochastic Analysis and Applications (in honour of Terry Lyons’ 70th birthday) ](https://www.imperial.ac.uk/events/168741/conference-on-modern-topics-in-stochastic-analysis-and-applications-in-honour-of-terry-lyons-70th-birthday/), *London, United Kingdom*
 * April 2024, Spring school and workshop [Mathematics of data streams: signatures, neural differential equations, and diffusion models](https://raph-ai.github.io/sig-workshop-greifswald-2024/), *Greifswald, Germany*
