@@ -6,15 +6,21 @@ classes: wide
 
 ## Published articles 
 
+* **Non-asymptotic Analysis of Biased Adaptive Stochastic Approximation**. Surendran, S., Godichon-Baggioni, A., Fermanian, A., Le Corff, S. (2024)  
+in *Advances in Neural Information Processing Systems*  
+[<i class="fas fa-file-pdf"></i> article](https://arxiv.org/pdf/2402.02857.pdf){: .btn} 
+
+* **The insertion method to invert the signature of a path**. Fermanian, A., Chang, J., Lyons, T., Biau, G. (2024)  
+in *Recent Advances in Econometrics and Statistics*, ed. Barigozzi, M., Hörmann, S., Paindaveine, D.,  Springer Cham  
+[<i class="fas fa-file-pdf"></i> article](https://arxiv.org/pdf/2304.01862.pdf){: .btn}  [<i class="fab fa-github"></i> code](https://github.com/patrick-kidger/signatory/blob/master/src/signatory/signature_inversion_module.py){: .btn}
+
 * **Dynamical Survival Analysis with Controlled Latent States**. Bleistein, L., Nguyen, V. T., Fermanian, A., Guilloux, A. (2024)  
 in *Proceedings of the 41st International Conference on Machine Learning*  
 [<i class="fas fa-file-pdf"></i> article](https://arxiv.org/pdf/2401.17077.pdf){: .btn}  [<i class="fab fa-github"></i> code](https://github.com/LinusBleistein/signature_survival){: .btn}
 
-
-* **Learning the Dynamics of Sparsely Observed Interacting Systems**. Bleistein, L., Fermanian, A., Jannot, A.S., Guilloux, A. (2023) 
+* **Learning the Dynamics of Sparsely Observed Interacting Systems**. Bleistein, L., Fermanian, A., Jannot, A.S., Guilloux, A. (2023)  
 in *Proceedings of the 40th International Conference on Machine Learning*  
 [<i class="fas fa-file-pdf"></i> article](https://arxiv.org/pdf/2301.11647.pdf){: .btn}  [<i class="fab fa-github"></i> code](https://github.com/LinusBleistein/SigLasso){: .btn}
-
 
 * **New Directions in the Applications of Rough Path Theory**. Fermanian, A., Lyons, T., Morrill, J., Salvi, C. (2023)  
 in *IEEE BITS the Information Theory Magazine*  
@@ -35,21 +41,16 @@ in *Advances in Neural Information Processing Systems*, ed. Ranzato, M., Beygelz
 
 ## Preprints
 
+* **Online Policy Selection for Inventory Problems**. Hihat, M., Fermanian, A. (2024)  
+[<i class="fas fa-file-pdf"></i> article](https://arxiv.org/pdf/2411.19269.pdf){: .btn} 
+
 
 * **Multivariate Online Linear Regression for Hierarchical Forecasting**. Hihat, M., Garrigos, G., Fermanian, A., Bussy, S. (2024)  
 [<i class="fas fa-file-pdf"></i> article](https://arxiv.org/pdf/2402.14578.pdf){: .btn} 
 
 
-* **Non-asymptotic Analysis of Biased Adaptive Stochastic Approximation**. Surendran, S., Godichon-Baggioni, A., Fermanian, A., Le Corff, S. (2024)  
-[<i class="fas fa-file-pdf"></i> article](https://arxiv.org/pdf/2402.02857.pdf){: .btn} 
-
-
 * **FLASH: a Fast joint model for Longitudinal And Survival data in High dimension**. Nguyen, V. T., Fermanian, A., Guilloux, A., Barbieri, A., Zohar, S., Jannot, A.-S., Bussy, S. (2023)  
 [<i class="fas fa-file-pdf"></i> article](https://arxiv.org/pdf/2309.03714.pdf){: .btn}  [<i class="fab fa-github"></i> code](https://github.com/Califrais/flash){: .btn}
-
-
-* **The insertion method to invert the signature of a path**. Fermanian, A., Chang, J., Lyons, T., Biau, G. (2023)  
-[<i class="fas fa-file-pdf"></i> article](https://arxiv.org/pdf/2304.01862.pdf){: .btn}  [<i class="fab fa-github"></i> code](https://github.com/patrick-kidger/signatory/blob/master/src/signatory/signature_inversion_module.py){: .btn}
 
 
 * **Scaling ResNets in the Large-depth Regime**. Marion, P., Fermanian, A., Biau, G., Vert, J.P. (2022)  
