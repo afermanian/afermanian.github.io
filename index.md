@@ -10,11 +10,7 @@ If you want to get in touch, you can contact me at [adeline.fermanian@califrais.
 
 We are recruiting! 
 
-* **M2 internship + PhD in Machine learning and Statistics**
-
-	- *``Optimisation et apprentissage en ligne appliqués aux problèmes logistiques du marché de Rungis''* in collaboration between [LPSM](https://www.lpsm.paris/) (Sorbonne Université) and Califrais, co-supervised by [Guillaume Garrigos](https://guillaume-garrigos.com/), Massil Hihat and myself. Full offer [here]({{ site.url }}{{ site.baseurl }}/assets/docs/2025_stage_garrigos.pdf).
-
-	-  *``Machine learning based hybrid strategies for combinatorial optimization''*, in collaboration between [LPSM](https://www.lpsm.paris/) (Sorbonne Université) and Califrais, co-supervised by [Maxime Sangnier](https://perso.lpsm.paris/~msangnier/) and myself. Full offer [here]({{ site.url }}{{ site.baseurl }}/assets/docs/2025_stage_sangnier.pdf).
+* **PhD in Machine learning and Statistics** : *``Machine learning based hybrid strategies for combinatorial optimization''*, in collaboration between [LPSM](https://www.lpsm.paris/) (Sorbonne Université) and Califrais, co-supervised by [Maxime Sangnier](https://perso.lpsm.paris/~msangnier/) and myself. Full offer [here]({{ site.url }}{{ site.baseurl }}/assets/docs/2025_these_califrais_LPSM_ML_CO.pdf).
 
 * **M2 internship in Operational Research**
 
@@ -22,7 +18,6 @@ We are recruiting!
 
 	- *``Intégrer les aspects écologiques dans la distribution de denrées alimentaires depuis Rungis''*, in collaboration between [LIPN](https://lipn.univ-paris13.fr/) and Califrais, co-supervised by [Roberto Wolfler Calvo](https://lipn.univ-paris13.fr/~wolflercalvo/) and myself. Full offer [here]({{ site.url }}{{ site.baseurl }}/assets/docs/2025_internship_routing.pdf).
 
-* **Post-doc opportunities**: We have post-doc opportunities in collaboration with [LPSM](https://www.lpsm.paris/) (Sorbonne Université). Contact me directly at [adeline.fermanian@califrais.fr](mailto:adeline.fermanian@califrais.fr) to know more about research topics and supervision.
 
 
 ## Short bio
