@@ -8,17 +8,6 @@ I am currently head of research at [Califrais](https://www.califrais.fr/). Our g
 
 If you want to get in touch, you can contact me at [adeline.fermanian@califrais.fr](mailto:adeline.fermanian@califrais.fr)
 
-We are recruiting! 
-
-* **PhD in Machine learning and Statistics** : *``Machine learning based hybrid strategies for combinatorial optimization''*, in collaboration between [LPSM](https://www.lpsm.paris/) (Sorbonne Université) and Califrais, co-supervised by [Maxime Sangnier](https://perso.lpsm.paris/~msangnier/) and myself. Full offer [here]({{ site.url }}{{ site.baseurl }}/assets/docs/2025_these_califrais_LPSM_ML_CO.pdf).
-
-* **M2 internship in Operational Research**
-
-	- *``Coordination des décisions d’approvisionnement, de stockage et de distribution pour la chaîne logistique du marché de Rungis''* in collaboration between [CEDRIC](https://cedric.cnam.fr/lab/) [LIPN](https://lipn.univ-paris13.fr/) and Califrais, co-supervised by [Pierre Fouilhoux](https://lipn.univ-paris13.fr/~fouilhoux/), [Safia Kedad-Sidhoum](https://cedric.cnam.fr/lab/author/kedad-sidhoum/) and myself. Full offer [here]({{ site.url }}{{ site.baseurl }}/assets/docs/2025_internship_multilevel_optim.pdf).
-
-	- *``Intégrer les aspects écologiques dans la distribution de denrées alimentaires depuis Rungis''*, in collaboration between [LIPN](https://lipn.univ-paris13.fr/) and Califrais, co-supervised by [Roberto Wolfler Calvo](https://lipn.univ-paris13.fr/~wolflercalvo/) and myself. Full offer [here]({{ site.url }}{{ site.baseurl }}/assets/docs/2025_internship_routing.pdf).
-
-
 
 ## Short bio
 

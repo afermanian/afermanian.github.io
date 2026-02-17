@@ -6,6 +6,14 @@ classes: wide
 
 ## Published articles 
 
+* **Scaling ResNets in the Large-depth Regime**. Marion, P., Fermanian, A., Biau, G., Vert, J.P. (2025)  
+*Journal of Machine Learning Research*, 26(56), 1-48.  
+[<i class="fas fa-file-pdf"></i> article](https://arxiv.org/abs/2206.06929){: .btn}  [<i class="fab fa-github"></i> code](https://github.com/PierreMarion23/scaling-resnets){: .btn}
+
+* **An efficient joint model for high dimensional longitudinal and survival data via generic association features**. Nguyen, V. T., Fermanian, A., Barbieri, A., Zohar, S., Jannot, A.-S., Bussy, S., Guilloux, A. (2024)  
+*Biometrics*, 80(4), ujae149  
+[<i class="fas fa-file-pdf"></i> article](https://academic.oup.com/biometrics/article/80/4/ujae149/7925453?login=false){: .btn}  [<i class="fab fa-github"></i> code](https://github.com/Califrais/flash){: .btn}
+
 * **Non-asymptotic Analysis of Biased Adaptive Stochastic Approximation**. Surendran, S., Godichon-Baggioni, A., Fermanian, A., Le Corff, S. (2024)  
 in *Advances in Neural Information Processing Systems*  
 [<i class="fas fa-file-pdf"></i> article](https://arxiv.org/pdf/2402.02857.pdf){: .btn} 
@@ -31,7 +39,7 @@ in *IEEE BITS the Information Theory Magazine*
 [<i class="fas fa-file-pdf"></i> article](https://arxiv.org/pdf/2006.08442.pdf){: .btn}  [<i class="fab fa-github"></i> code](https://github.com/afermanian/signature-regression){: .btn}
 
 * **Framing RNN as a kernel method: A neural ODE approach**. Fermanian, A., Marion, P., Vert, J.P., Biau, G. (2021)  
-in *Advances in Neural Information Processing Systems*, ed. Ranzato, M., Beygelzimer, A., Dauphin, Y., Liang, P.S. and Wortman Vaughan, J., Vol. 34, pp. 3121-3134, Curran Associates, Inc. (oral presentation)  
+in *Advances in Neural Information Processing Systems* (oral presentation)  
 [<i class="fas fa-file-pdf"></i> article](https://arxiv.org/pdf/2106.01202.pdf){: .btn}  [<i class="fab fa-github"></i> code](https://github.com/afermanian/rnn-kernel){: .btn}
 
 * **Embedding and learning with signatures**. Fermanian, A. (2021)  
@@ -41,21 +49,20 @@ in *Advances in Neural Information Processing Systems*, ed. Ranzato, M., Beygelz
 
 ## Preprints
 
+* **Robust Estimation for Linear State-Space Models with Stochastic Covariates.** Mahoromeza, J. L., Fermanian, A., Wintenberger, O., & de Vilmarest, J. (2025)  
+[<i class="fas fa-file-pdf"></i> article](https://hal.science/hal-05255645/document){: .btn} 
+
+* **Latent Guided Sampling for Combinatorial Optimization.** Surendran, S., Fermanian, A., & Corff, S. L. (2025)  
+[<i class="fas fa-file-pdf"></i> article](https://arxiv.org/pdf/2506.03672){: .btn} 
+
+* **Statistical knockoffs improve biomarker discovery from transcriptomic data.** Cartier, J., Lagoas, J., Ayadi, Y., Fermanian, A., Azencott, C. A., & Massip, F. (2025)  
+[<i class="fas fa-file-pdf"></i> article](https://www.biorxiv.org/content/biorxiv/early/2025/12/03/2025.07.04.663147.full.pdf){: .btn} 
+
 * **Online Policy Selection for Inventory Problems**. Hihat, M., Fermanian, A. (2024)  
 [<i class="fas fa-file-pdf"></i> article](https://arxiv.org/pdf/2411.19269.pdf){: .btn} 
 
-
 * **Multivariate Online Linear Regression for Hierarchical Forecasting**. Hihat, M., Garrigos, G., Fermanian, A., Bussy, S. (2024)  
 [<i class="fas fa-file-pdf"></i> article](https://arxiv.org/pdf/2402.14578.pdf){: .btn} 
-
-
-* **FLASH: a Fast joint model for Longitudinal And Survival data in High dimension**. Nguyen, V. T., Fermanian, A., Guilloux, A., Barbieri, A., Zohar, S., Jannot, A.-S., Bussy, S. (2023)  
-[<i class="fas fa-file-pdf"></i> article](https://arxiv.org/pdf/2309.03714.pdf){: .btn}  [<i class="fab fa-github"></i> code](https://github.com/Califrais/flash){: .btn}
-
-
-* **Scaling ResNets in the Large-depth Regime**. Marion, P., Fermanian, A., Biau, G., Vert, J.P. (2022)  
-[<i class="fas fa-file-pdf"></i> article](https://arxiv.org/abs/2206.06929){: .btn}  [<i class="fab fa-github"></i> code](https://github.com/PierreMarion23/scaling-resnets){: .btn}
-
 
 * **A Generalised Signature Method for Multivariate Time Series Feature Extraction**. Morrill, J., Fermanian, A., Kidger, P., Lyons, T. (2020)  
 [<i class="fas fa-file-pdf"></i> article](https://arxiv.org/pdf/2006.00873.pdf){: .btn}  [<i class="fab fa-github"></i> code](https://github.com/jambo6/generalised-signature-method){: .btn}

@@ -8,7 +8,9 @@ classes: wide
 
 ## Upcoming talks
 
-* September 2024, [Séminaire Parisien de Statistique](https://sites.google.com/site/semstats/ann%C3%A9e-2024-2025/s%C3%A9ance-du-23-septembre-2024?authuser=0), *Institut Henri Poincaré, Paris, France*
+* June 2026, [57es Journées de Statistique de la SFdS](https://jds2026.sciencesconf.org/resource/page/id/6), *Clermont-Ferrand, France*
+* October 2026, [22es Journées d'Étude en Statistique (JES)](https://www.sfds.asso.fr//fr/activites_et_parrainages/activites_de_la_sfds/779-jes_2026/), *CIRM, Marseille, France*
+
 
 ## Scientific activities
 
@@ -29,6 +31,7 @@ classes: wide
 
 ## Past talks
 
+* September 2024, [Séminaire Parisien de Statistique](https://sites.google.com/site/semstats/ann%C3%A9e-2024-2025/s%C3%A9ance-du-23-septembre-2024?authuser=0), *Institut Henri Poincaré, Paris, France*
 * July 2024, [Séminaire du LMAP](https://lma-umr5142.univ-pau.fr/fr/activites-scientifiques/seminaires.html), *Université de Pau et des Pays de l'Adour, Pau, France*
 * May 2024, [MLDMA seminar](https://centreborelli.ens-paris-saclay.fr/fr/SMLMDA), Centre Borelli, *ENS Paris-Saclay, Gif-sur-Yvette, France*
 * April 2024, [2024 Conference on Modern Topics in Stochastic Analysis and Applications (in honour of Terry Lyons’ 70th birthday) ](https://www.imperial.ac.uk/events/168741/conference-on-modern-topics-in-stochastic-analysis-and-applications-in-honour-of-terry-lyons-70th-birthday/), *London, United Kingdom*
